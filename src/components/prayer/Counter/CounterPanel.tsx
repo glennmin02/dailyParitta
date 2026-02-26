@@ -20,7 +20,6 @@ export const CounterPanel: React.FC<CounterPanelProps> = ({ prayer }) => {
 
   const counter = getCounter(prayer.id)
   const current = counter?.current || 0
-  const target = counter?.target || prayer.counterConfig?.defaultCount || 3
 
   useEffect(() => {
     // Initialize counter if not exists
