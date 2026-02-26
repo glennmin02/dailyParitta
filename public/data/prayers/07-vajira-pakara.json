@@ -1,0 +1,193 @@
+{
+  "id": "vajira-pakara",
+  "title": "ဂုဏ်တော်ကွန်ချာ ၁၈ ထပ်",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "ဂုဏ်တော်ကွန်ချာ ၁၈ ထပ်",
+      "romanization": "Gon Daw Kone Cha 18 Htap",
+      "translation": "The 18 Levels of Vajira Pakara Protection",
+      "type": "heading"
+    },
+    {
+      "id": "instruction-1",
+      "order": 2,
+      "burmese": "ပထမ ၉ ထပ် — အစဉ် (အရဟံ → ဘဂဝါ)",
+      "romanization": "First 9 Levels - Forward (Arah → Bhagavā)",
+      "translation": "First 9 Levels - Forward progression",
+      "type": "instruction"
+    },
+    {
+      "id": "verse-1",
+      "order": 3,
+      "burmese": "သော ဘဂဝါ ဣတိပိ အရဟံ၊ အရဟံ ဝတ သော ဘဂဝါ၊ အရဟန္တံ သရဏံ ဂစ္ဆာမိ၊ အရဟန္တံ သိရသာ နမာမိ၊ ပထမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ အရဟံ။",
+      "romanization": "1st Vajira Pakara - Arahaṃ",
+      "translation": "1st Diamond Wall - The Worthy One",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 4,
+      "burmese": "သော ဘဂဝါ ဣတိပိ သမ္မာသမ္ဗုဒ္ဓေါ၊ သမ္မာသမ္ဗုဒ္ဓေါ ဝတ သော ဘဂဝါ၊ သမ္မာသမ္ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ၊ သမ္မာသမ္ဗုဒ္ဓံ သိရသာ နမာမိ၊ ဒုတိယော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ သမ္မာသမ္ဗုဒ္ဓေါ။",
+      "romanization": "2nd Vajira Pakara - Sammāsambuddho",
+      "translation": "2nd Diamond Wall - The Perfectly Enlightened",
+      "type": "verse"
+    },
+    {
+      "id": "verse-3",
+      "order": 5,
+      "burmese": "သော ဘဂဝါ ဣတိပိ ဝိဇ္ဇာစရဏသမ္ပန္နော၊ ဝိဇ္ဇာစရဏသမ္ပန္နော ဝတ သော ဘဂဝါ၊ ဝိဇ္ဇာစရဏသမ္ပန္နံ သရဏံ ဂစ္ဆာမိ၊ ဝိဇ္ဇာစရဏသမ္ပန္နံ သိရသာ နမာမိ၊ တတိယော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ ဝိဇ္ဇာစရဏသမ္ပန္နော။",
+      "romanization": "3rd Vajira Pakara - Vijjācaraṇasampanno",
+      "translation": "3rd Diamond Wall - Perfect in Knowledge",
+      "type": "verse"
+    },
+    {
+      "id": "verse-4",
+      "order": 6,
+      "burmese": "သော ဘဂဝါ ဣတိပိ သုဂတော၊ သုဂတော ဝတ သော ဘဂဝါ၊ သုဂတံ သရဏံ ဂစ္ဆာမိ၊ သုဂတံ သိရသာ နမာမိ၊ စတုတ္ထော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ သုဂတော။",
+      "romanization": "4th Vajira Pakara - Sugato",
+      "translation": "4th Diamond Wall - The Well-Gone",
+      "type": "verse"
+    },
+    {
+      "id": "verse-5",
+      "order": 7,
+      "burmese": "သော ဘဂဝါ ဣတိပိ လောကဝိဒူ၊ လောကဝိဒူ ဝတ သော ဘဂဝါ၊ လောကဝိဒုံ သရဏံ ဂစ္ဆာမိ၊ လောကဝိဒုံ သိရသာ နမာမိ၊ ပဉ္စမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ လောကဝိဒူ။",
+      "romanization": "5th Vajira Pakara - Lokavidū",
+      "translation": "5th Diamond Wall - Knower of Worlds",
+      "type": "verse"
+    },
+    {
+      "id": "verse-6",
+      "order": 8,
+      "burmese": "သော ဘဂဝါ ဣတိပိ အနုတ္တရောပုရိသဒမ္မသာရထိ၊ အနုတ္တရောပုရိသဒမ္မသာရထိ ဝတ သော ဘဂဝါ၊ အနုတ္တရံပုရိသဒမ္မသာရထိံ သရဏံ ဂစ္ဆာမိ၊ အနုတ္တရံပုရိသဒမ္မသာရထိံ သိရသာ နမာမိ၊ ဆဋ္ဌမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ အနုတ္တရောပုရိသဒမ္မသာရထိ။",
+      "romanization": "6th Vajira Pakara - Anuttaro purisadammasārathi",
+      "translation": "6th Diamond Wall - Incomparable Trainer",
+      "type": "verse"
+    },
+    {
+      "id": "verse-7",
+      "order": 9,
+      "burmese": "သော ဘဂဝါ ဣတိပိ သတ္ထာဒေဝမနုဿာနံ၊ သတ္ထာဒေဝမနုဿာနံ ဝတ သော ဘဂဝါ၊ သတ္ထာရံဒေဝမနုဿာနံ သရဏံ ဂစ္ဆာမိ၊ သတ္ထာရံဒေဝမနုဿာနံ သိရသာ နမာမိ၊ သတ္တမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ သတ္ထာဒေဝမနုဿာနံ။",
+      "romanization": "7th Vajira Pakara - Satthā devamanussānaṃ",
+      "translation": "7th Diamond Wall - Teacher of Gods and Humans",
+      "type": "verse"
+    },
+    {
+      "id": "verse-8",
+      "order": 10,
+      "burmese": "သော ဘဂဝါ ဣတိပိ ဗုဒ္ဓေါ၊ ဗုဒ္ဓေါ ဝတ သော ဘဂဝါ၊ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ၊ ဗုဒ္ဓံ သိရသာ နမာမိ၊ အဋ္ဌမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ ဗုဒ္ဓေါ။",
+      "romanization": "8th Vajira Pakara - Buddho",
+      "translation": "8th Diamond Wall - The Awakened One",
+      "type": "verse"
+    },
+    {
+      "id": "verse-9",
+      "order": 11,
+      "burmese": "သော ဘဂဝါ ဣတိပိ ဘဂဝါ၊ ဘဂဝါ ဝတ သော ဘဂဝါ၊ ဘဂဝန္တံ သရဏံ ဂစ္ဆာမိ၊ ဘဂဝန္တံ သိရသာ နမာမိ၊ နဝမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ ဘဂဝါ။",
+      "romanization": "9th Vajira Pakara - Bhagavā",
+      "translation": "9th Diamond Wall - The Blessed One",
+      "type": "verse"
+    },
+    {
+      "id": "instruction-2",
+      "order": 13,
+      "burmese": "ဒုတိယ ၉ ထပ် — အပြန် (ပြန်လှည့်)",
+      "romanization": "Second 9 Levels - Returning",
+      "translation": "Second 9 Levels - Return progression",
+      "type": "instruction"
+    },
+    {
+      "id": "verse-10",
+      "order": 14,
+      "burmese": "သော ဘဂဝါ ဣတိပိ လောကဝိဒူ၊ လောကဝိဒူ ဝတ သော ဘဂဝါ၊ လောကဝိဒုံ သရဏံ ဂစ္ဆာမိ၊ လောကဝိဒုံ သိရသာ နမာမိ၊ ပဉ္စမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ လောကဝိဒူ။",
+      "romanization": "10th - 5th Vajira Pakara (Return) - Lokavidū",
+      "translation": "10th Level (5th returning) - Knower of Worlds",
+      "type": "verse"
+    },
+    {
+      "id": "verse-11",
+      "order": 15,
+      "burmese": "သော ဘဂဝါ ဣတိပိ သုဂတော၊ သုဂတော ဝတ သော ဘဂဝါ၊ သုဂတံ သရဏံ ဂစ္ဆာမိ၊ သုဂတံ သိရသာ နမာမိ၊ စတုတ္ထော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ သုဂတော။",
+      "romanization": "11th - 4th Vajira Pakara (Return) - Sugato",
+      "translation": "11th Level (4th returning) - The Well-Gone",
+      "type": "verse"
+    },
+    {
+      "id": "verse-12",
+      "order": 16,
+      "burmese": "သော ဘဂဝါ ဣတိပိ အနုတ္တရောပုရိသဒမ္မသာရထိ၊ အနုတ္တရောပုရိသဒမ္မသာရထိ ဝတ သော ဘဂဝါ၊ အနုတ္တရံပုရိသဒမ္မသာရထိံ သရဏံ ဂစ္ဆာမိ၊ အနုတ္တရံပုရိသဒမ္မသာရထိံ သိရသာ နမာမိ၊ ဆဋ္ဌမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ အနုတ္တရောပုရိသဒမ္မသာရထိ။",
+      "romanization": "12th - 6th Vajira Pakara (Return) - Anuttaro",
+      "translation": "12th Level (6th returning) - Incomparable Trainer",
+      "type": "verse"
+    },
+    {
+      "id": "verse-13",
+      "order": 17,
+      "burmese": "သော ဘဂဝါ ဣတိပိ ဝိဇ္ဇာစရဏသမ္ပန္နော၊ ဝိဇ္ဇာစရဏသမ္ပန္နော ဝတ သော ဘဂဝါ၊ ဝိဇ္ဇာစရဏသမ္ပန္နံ သရဏံ ဂစ္ဆာမိ၊ ဝိဇ္ဇာစရဏသမ္ပန္နံ သိရသာ နမာမိ၊ တတိယော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ ဝိဇ္ဇာစရဏသမ္ပန္နော။",
+      "romanization": "13th - 3rd Vajira Pakara (Return) - Vijjācaraṇa",
+      "translation": "13th Level (3rd returning) - Perfect in Knowledge",
+      "type": "verse"
+    },
+    {
+      "id": "verse-14",
+      "order": 18,
+      "burmese": "သော ဘဂဝါ ဣတိပိ သတ္ထာဒေဝမနုဿာနံ၊ သတ္ထာဒေဝမနုဿာနံ ဝတ သော ဘဂဝါ၊ သတ္ထာရံဒေဝမနုဿာနံ သရဏံ ဂစ္ဆာမိ၊ သတ္ထာရံဒေဝမနုဿာနံ သိရသာ နမာမိ၊ သတ္တမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ သတ္ထာဒေဝမနုဿာနံ။",
+      "romanization": "14th - 7th Vajira Pakara (Return) - Satthā",
+      "translation": "14th Level (7th returning) - Teacher of Gods and Humans",
+      "type": "verse"
+    },
+    {
+      "id": "verse-15",
+      "order": 19,
+      "burmese": "သော ဘဂဝါ ဣတိပိ သမ္မာသမ္ဗုဒ္ဓေါ၊ သမ္မာသမ္ဗုဒ္ဓေါ ဝတ သော ဘဂဝါ၊ သမ္မာသမ္ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ၊ သမ္မာသမ္ဗုဒ္ဓံ သိရသာ နမာမိ၊ ဒုတိယော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ သမ္မာသမ္ဗုဒ္ဓေါ။",
+      "romanization": "15th - 2nd Vajira Pakara (Return) - Sammāsambuddho",
+      "translation": "15th Level (2nd returning) - The Perfectly Enlightened",
+      "type": "verse"
+    },
+    {
+      "id": "verse-16",
+      "order": 20,
+      "burmese": "သော ဘဂဝါ ဣတိပိ ဗုဒ္ဓေါ၊ ဗုဒ္ဓေါ ဝတ သော ဘဂဝါ၊ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ၊ ဗုဒ္ဓံ သိရသာ နမာမိ၊ အဋ္ဌမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ ဗုဒ္ဓေါ။",
+      "romanization": "16th - 8th Vajira Pakara (Return) - Buddho",
+      "translation": "16th Level (8th returning) - The Awakened One",
+      "type": "verse"
+    },
+    {
+      "id": "verse-17",
+      "order": 21,
+      "burmese": "သော ဘဂဝါ ဣတိပိ အရဟံ၊ အရဟံ ဝတ သော ဘဂဝါ၊ အရဟန္တံ သရဏံ ဂစ္ဆာမိ၊ အရဟန္တံ သိရသာ နမာမိ၊ ပထမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ အရဟံ။",
+      "romanization": "17th - 1st Vajira Pakara (Return) - Arahaṃ",
+      "translation": "17th Level (1st returning) - The Worthy One",
+      "type": "verse"
+    },
+    {
+      "id": "verse-18",
+      "order": 22,
+      "burmese": "သော ဘဂဝါ ဣတိပိ ဘဂဝါ၊ ဘဂဝါ ဝတ သော ဘဂဝါ၊ ဘဂဝန္တံ သရဏံ ဂစ္ဆာမိ၊ ဘဂဝန္တံ သိရသာ နမာမိ၊ နဝမော ဝဇီရပါကာရော၊ သော ဘဂဝါ ဣတိပိ ဘဂဝါ။",
+      "romanization": "18th - 9th Vajira Pakara (Return) - Bhagavā",
+      "translation": "18th Level (9th returning) - The Blessed One Complete",
+      "type": "verse"
+    },
+    {
+      "id": "heading-2",
+      "order": 23,
+      "burmese": "ဂုဏ်တော်ကွန်ချာ ပြီး၏။",
+      "romanization": "Gon Daw Kone Cha Pyi",
+      "translation": "The 18 Levels of Vajira Pakara Complete",
+      "type": "heading"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "intermediate",
+    "tags": ["daily", "protection", "vajira-pakara", "18-levels"]
+  }
+}

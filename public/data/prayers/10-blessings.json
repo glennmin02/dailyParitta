@@ -1,0 +1,49 @@
+{
+  "id": "blessings",
+  "title": "စဓ ဗဝ ဂါထာ",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "စဓ ဗဝ ဂါထာ — ကောင်းချီးဂါထာ",
+      "romanization": "Sadhu Bhava Gatha - Blessings Verse",
+      "translation": "Verses of Blessings",
+      "type": "heading"
+    },
+    {
+      "id": "verse-1",
+      "order": 2,
+      "burmese": "ဗုဒ္ဓေါ လောကေ သမုပ္ပန္နော၊ ဟိတာယ သဗ္ဗပါဏိနံ။ စက္ခုံ လောကေ ပတိဋ္ဌာပေ၊ ဟိတာယ သဗ္ဗပါဏိနံ။",
+      "romanization": "Buddho loke samuppanno, hitāya sabbapāṇinaṃ. Cakkhuṃ loke patiṭṭhāpe, hitāya sabbapāṇinaṃ",
+      "translation": "The Buddha has arisen in the world for the welfare of all beings. The Eye has been established in the world for the welfare of all beings",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 3,
+      "burmese": "ဓမ္မော လောကေ သမုပ္ပန္နော၊ သုခါယ သဗ္ဗပါဏိနံ။ ဝိနယော လောကေ ပတိဋ္ဌာပေ၊ သုခါယ သဗ္ဗပါဏိနံ။",
+      "romanization": "Dhammo loke samuppanno, sukhāya sabbapāṇinaṃ. Vinayo loke patiṭṭhāpe, sukhāya sabbapāṇinaṃ",
+      "translation": "The Dhamma has arisen in the world for the happiness of all beings. The Discipline has been established in the world for the happiness of all beings",
+      "type": "verse"
+    },
+    {
+      "id": "verse-3",
+      "order": 4,
+      "burmese": "သံဃော လောကေ သမုပ္ပန္နော၊ ပုညက္ခေတ္တံ အနုတ္တရံ။ ပဋိဂ္ဂဟေတွာ ပုညက္ခေတ္တံ၊ ဧဝံ ဟောတု သုမင်္ဂလံ။",
+      "romanization": "Saṅgho loke samuppanno, puññakkhettaṃ anuttaraṃ. Paṭiggahetvā puññakkhettaṃ, evaṃ hotu sumaṅgalaṃ",
+      "translation": "The Sangha has arisen in the world as the incomparable field of merit. Having accepted this field of merit, may there be great blessings",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "beginner",
+    "tags": ["daily", "blessings", "triple-gem"]
+  }
+}

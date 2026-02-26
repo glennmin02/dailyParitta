@@ -1,0 +1,41 @@
+{
+  "id": "maha-samaya",
+  "title": "မဟာသမယသုတ်",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "မဟာသမယသုတ် (အကျဉ်းချုပ်)",
+      "romanization": "Mahā Samaya Sutta (Excerpt)",
+      "translation": "The Great Assembly Discourse (Summary)",
+      "type": "heading"
+    },
+    {
+      "id": "instruction-1",
+      "order": 2,
+      "burmese": "နတ်ဗြဟ္မာ ဆယ်ဘုံစလုံးမှ လာရောက်ဖူးမြော်ကြပါသည်",
+      "romanization": "Devas and Brahmas from all realms came to pay respects",
+      "translation": "Devas and Brahmas from the ten thousand worlds came to pay respects to the Buddha",
+      "type": "instruction"
+    },
+    {
+      "id": "verse-1",
+      "order": 3,
+      "burmese": "ဧဝံ မေ သုတံ — ဧကံ သမယံ ဘဂဝါ သက္ကေသု ဝိဟရတိ ကပိလဝတ္ထုသ္မိံ မဟာဝနေ မဟတာ ဘိက္ခုသံဃေန သဒ္ဓိံ ပဉ္စမတ္တေဟိ ဘိက္ခုသတေဟိ...",
+      "romanization": "Evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi",
+      "translation": "Thus have I heard — At one time the Blessed One was staying among the Sakyans at Kapilavatthu in the Great Wood together with a large Saṅgha of about five hundred bhikkhus",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Dīgha Nikāya - Pāṭika Vagga",
+    "difficulty": "beginner",
+    "tags": ["daily", "sutta", "devas"]
+  }
+}

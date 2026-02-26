@@ -1,0 +1,60 @@
+{
+  "id": "okasa",
+  "title": "ဩကာသ ကန်တော့ချိုး",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "ဩကာသ ကန်တော့ချိုး",
+      "translation": "Requesting Permission to Pay Homage",
+      "type": "heading"
+    },
+    {
+      "id": "verse-1",
+      "order": 2,
+      "burmese": "ဩကာသ ဩကာသ ဩကာသ ကာယကံ ဝစီကံ မနောကံ သဗ္ဗဒေါသ ခပ်သိမ်းသော အပြစ်တို့ကို ပျောက်ပါစေခြင်း အကျိုးငှါ ပထမ ဒုတိယ တတိယ တကြိမ် နှစ်ကြိမ် သုံးကြိမ်မြောက်အောင် ဘုရားရတနာ တရားရတနာ သံဃာရတနာ ရတနာမြတ်သုံးပါးနှင့် မိဘ ဆရာသမားတို့အား ရိုသေမြတ်နိုး လက်စုံမိုး၍ ရှိခိုးပူဇော် ဖူးမျှော်မာန်လျှော့ ကန်တော့ပါ၏ အရှင်ဘုရား။",
+      "translation": "Permission, permission, permission. For the sake of dispelling all faults of body, speech, and mind, I pay homage with joined palms to the Triple Gem (Buddha, Dhamma, Sangha) and to parents and teachers, for the first, second, and third time.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 3,
+      "burmese": "ကန်တော့ရသော ကောင်းမှုကံ စေတနာတို့ကြောင့် တပည့်တော်တို့ အားထုတ်ဆဲဖြစ်သော ဝိပဿနာ ဉာဏ်သည် လျင်မြန်စွာ မဂ်ဉာဏ်သို့ ကျေးဇူးပြု၍ နိဗ္ဗာန်သို့ မျက်မှောက်ပြုရပါလို၏ အရှင်ဘုရား။",
+      "translation": "Through the merit of this homage, may our Vipassana insight quickly lead to the wisdom of the Path and may we realize Nibbana.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-3",
+      "order": 4,
+      "burmese": "နမော တဿ ဘဂဝတော အရဟတော သမ္မာသမ္ဗုဒ္ဓဿ။",
+      "romanization": "Namo tassa bhagavato arahato sammāsambuddhassa",
+      "translation": "Homage to the Blessed One, the Worthy One, the Fully Enlightened One",
+      "type": "verse"
+    },
+    {
+      "id": "instruction-1",
+      "order": 5,
+      "burmese": "(၃ ကြိမ်)",
+      "translation": "(Recite 3 times)",
+      "type": "instruction"
+    },
+    {
+      "id": "verse-4",
+      "order": 6,
+      "burmese": "(ကိလေသာအပေါင်းမှ ကင်းဝေးတော်မူသော၊ အလုံးစုံသော တရားတို့ကို ကိုယ်တိုင်မှန်စွာ သိတော်မူသော ထိုမြတ်စွာဘုရားအား ရှိခိုးပါ၏)",
+      "translation": "(Homage to the Blessed One who is free from all defilements and who has fully realized all truths by himself)",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 3
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "beginner",
+    "tags": ["daily", "homage", "namo", "permission"]
+  }
+}

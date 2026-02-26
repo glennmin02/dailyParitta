@@ -1,0 +1,55 @@
+{
+  "id": "nat-pint",
+  "title": "နတ်ပင့်ဂါထာ",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "နတ်ပင့်ဂါထာ",
+      "translation": "Inviting the Devas",
+      "type": "heading"
+    },
+    {
+      "id": "instruction-1",
+      "order": 2,
+      "burmese": "နတ်ဗြဟ္မာတို့ကို တရားနာရန် ပင့်ဖိတ်ခြင်း",
+      "translation": "Inviting devas and brahmas to listen to the dhamma",
+      "type": "instruction"
+    },
+    {
+      "id": "verse-1",
+      "order": 3,
+      "burmese": "သမန္တာ စက္ကဝါဠေသု၊ အတြာဂစ္ဆန္တု ဒေဝတာ။",
+      "romanization": "Samantā cakkavāḷesu, atrāgacchantu devatā",
+      "translation": "May all devas from the ten thousand world systems come here",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 4,
+      "burmese": "သဒ္ဓမ္မံ မုနိရာဇဿ၊ သုဏန္တု သဂ္ဂမောက္ခဒံ။",
+      "romanization": "Saddhammaṃ munirājassa, suṇantu saggamokkhadaṃ",
+      "translation": "To listen to the true dhamma of the King of Sages, which gives heavenly bliss and liberation",
+      "type": "verse"
+    },
+    {
+      "id": "verse-3",
+      "order": 5,
+      "burmese": "ဓမ္မဿဝနကာလော အယံ ဘဒ္ဒန္တာ။",
+      "romanization": "Dhammassavanakālo ayaṃ bhaddantā",
+      "translation": "Venerable ones, this is the time to listen to the dhamma",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "beginner",
+    "tags": ["daily", "opening", "invitation"]
+  }
+}

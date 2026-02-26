@@ -1,0 +1,73 @@
+{
+  "id": "dhamma-gun",
+  "title": "တရားဂုဏ်တော် ၆ ပါး",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "တရားဂုဏ်တော် ၆ ပါး",
+      "romanization": "Dhamma Gon Daw Chauk Par",
+      "translation": "The Six Virtues of the Dhamma",
+      "type": "heading"
+    },
+    {
+      "id": "verse-1",
+      "order": 2,
+      "burmese": "သွာက္ခာတော ဘဂဝတာ ဓမ္မော",
+      "romanization": "Svākkhāto bhagavatā dhammo",
+      "translation": "The Dhamma is well-proclaimed by the Blessed One",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 3,
+      "burmese": "သန္ဒိဋ္ဌိကော",
+      "romanization": "Sandiṭṭhiko",
+      "translation": "Visible here and now",
+      "type": "verse"
+    },
+    {
+      "id": "verse-3",
+      "order": 4,
+      "burmese": "အကာလိကော",
+      "romanization": "Akāliko",
+      "translation": "Timeless",
+      "type": "verse"
+    },
+    {
+      "id": "verse-4",
+      "order": 5,
+      "burmese": "ဧဟိပဿိကော",
+      "romanization": "Ehipassiko",
+      "translation": "Inviting one to come and see",
+      "type": "verse"
+    },
+    {
+      "id": "verse-5",
+      "order": 6,
+      "burmese": "ဩပနယိကော",
+      "romanization": "Opanayiko",
+      "translation": "Leading onwards",
+      "type": "verse"
+    },
+    {
+      "id": "verse-6",
+      "order": 7,
+      "burmese": "ပစ္စတ္တံ ဝေဒိတဗ္ဗော ဝိညူဟီ'တိ။",
+      "romanization": "Paccattaṃ veditabbo viññūhīti",
+      "translation": "To be personally experienced by the wise",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "beginner",
+    "tags": ["daily", "dhamma", "virtues"]
+  }
+}

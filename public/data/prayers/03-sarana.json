@@ -1,0 +1,96 @@
+{
+  "id": "sarana",
+  "title": "သရဏဂုံ သုံးပါး",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "သရဏဂုံ သုံးပါး",
+      "translation": "Taking Refuge in the Triple Gem",
+      "type": "heading"
+    },
+    {
+      "id": "verse-1",
+      "order": 2,
+      "burmese": "ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Buddhaṃ saraṇaṃ gacchāmi",
+      "translation": "I take refuge in the Buddha",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 3,
+      "burmese": "ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Dhammaṃ saraṇaṃ gacchāmi",
+      "translation": "I take refuge in the Dhamma",
+      "type": "verse"
+    },
+    {
+      "id": "verse-3",
+      "order": 4,
+      "burmese": "သံဃံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Saṅghaṃ saraṇaṃ gacchāmi",
+      "translation": "I take refuge in the Sangha",
+      "type": "verse"
+    },
+    {
+      "id": "verse-4",
+      "order": 5,
+      "burmese": "ဒုတိယမ္ပိ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Dutiyampi buddhaṃ saraṇaṃ gacchāmi",
+      "translation": "For the second time, I take refuge in the Buddha",
+      "type": "verse"
+    },
+    {
+      "id": "verse-5",
+      "order": 6,
+      "burmese": "ဒုတိယမ္ပိ ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Dutiyampi dhammaṃ saraṇaṃ gacchāmi",
+      "translation": "For the second time, I take refuge in the Dhamma",
+      "type": "verse"
+    },
+    {
+      "id": "verse-6",
+      "order": 7,
+      "burmese": "ဒုတိယမ္ပိ သံဃံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Dutiyampi saṅghaṃ saraṇaṃ gacchāmi",
+      "translation": "For the second time, I take refuge in the Sangha",
+      "type": "verse"
+    },
+    {
+      "id": "verse-7",
+      "order": 8,
+      "burmese": "တတိယမ္ပိ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Tatiyampi buddhaṃ saraṇaṃ gacchāmi",
+      "translation": "For the third time, I take refuge in the Buddha",
+      "type": "verse"
+    },
+    {
+      "id": "verse-8",
+      "order": 9,
+      "burmese": "တတိယမ္ပိ ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Tatiyampi dhammaṃ saraṇaṃ gacchāmi",
+      "translation": "For the third time, I take refuge in the Dhamma",
+      "type": "verse"
+    },
+    {
+      "id": "verse-9",
+      "order": 10,
+      "burmese": "တတိယမ္ပိ သံဃံ သရဏံ ဂစ္ဆာမိ။",
+      "romanization": "Tatiyampi saṅghaṃ saraṇaṃ gacchāmi",
+      "translation": "For the third time, I take refuge in the Sangha",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "beginner",
+    "tags": ["daily", "refuge", "triple-gem"]
+  }
+}

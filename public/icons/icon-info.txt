@@ -1,0 +1,9 @@
+To generate proper PWA icons, use a tool like:
+- https://realfavicongenerator.net/
+- https://www.pwabuilder.com/imageGenerator
+
+For now, the app will use default icons. Create:
+- icon-192x192.png (192x192 pixels)
+- icon-512x512.png (512x512 pixels)
+
+Place your Buddhist-themed icon (e.g., lotus, Buddha, prayer beads) here.

@@ -1,0 +1,137 @@
+{
+  "id": "buddha-28",
+  "title": "သမ္ဗုဒ္ဓေ ဂါထာ",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "သမ္ဗုဒ္ဓေ ဂါထာ — ဘုရား ၂၈ ဆူ ရှိခိုးခြင်း",
+      "romanization": "Sambuddhe Gatha",
+      "translation": "Homage to the 28 Buddhas",
+      "type": "heading"
+    },
+    {
+      "id": "verse-main",
+      "order": 2,
+      "burmese": "သမ္ဗုဒ္ဓေ အဋ္ဌဝီသဉ္စ၊ ဒွါဒသဉ္စ သဟဿကေ၊ ပဉ္စသတ သဟဿာနိ၊ နမာမိ သိရသာ မဟံ၊ အပ္ပကာ ဝါဠုကာ ဂင်္ဂါ၊ အနန္တာ နိဗ္ဗုတာ ဇိနာ၊ တေသံ ဓမ္မဉ္စ သံဃဉ္စ၊ အာဒရေန နမာမဟံ၊ နမက္ကာရာ နုဘာဝေန၊ ဟိတွာ သဗ္ဗေ ဥပဒ္ဒဝေ၊ အနေကာ အန္တရာယာပိ ဝိနဿန္တု အသေသတော။",
+      "romanization": "Sambuddhe aṭṭhavīsañca, dvādasañca sahassake, pañcasata sahassāni, namāmi sirasā mahaṃ...",
+      "translation": "To the 28 Fully Enlightened Ones, to the 12,000, to the 500,000, I pay homage with my head. Few are the grains of sand in the Ganges, countless are the Conquerors who have attained Nibbana. To them, their Dhamma and their Sangha, I pay homage with reverence. By the power of this homage, may all dangers be averted and all obstacles be destroyed completely.",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-1",
+      "order": 3,
+      "burmese": "အဋ္ဌဝီသံ – သုံးပါးဘဝ သုံးလောကတွင် ဉာဏ ရောင်ဖိတ် အောင်ဘိသိက်နှင့် နှစ်ကျိပ်ရှစ်ဆူကုန်သော။",
+      "romanization": "Aṭṭhavīsaṃ",
+      "translation": "Twenty-eight - The Enlightened Ones who shone with wisdom in the three realms",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-2",
+      "order": 4,
+      "burmese": "သမ္ဗုဒ္ဓေ စ – တန်ဆောင်ပမာ ဉာဏ်ရောင်ဝါဖြင့် သစ္စာပွင့်လင်း တရားမင်းတို့ကို လည်းကောင်း။",
+      "romanization": "Sambuddhe ca",
+      "translation": "And to the Fully Enlightened Ones who realized the Truth with moonlight-like wisdom",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-3",
+      "order": 5,
+      "burmese": "ဒွါဒသဉ္စ သဟဿကေ – နိဗ္ဗာန်ကိန်းအောင်း စက် မွေ့လျောင်းသည့် တစ်သောင်းနှစ်ထောင်ကုန်သော။",
+      "romanization": "Dvādasañca sahassake",
+      "translation": "And to the 12,000 who attained the bliss of Nibbana",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-4",
+      "order": 6,
+      "burmese": "သမ္ဗုဒ္ဓေစ – လရောင်ပမာ ဉာဏ်ရောင်ဝါဖြင့် သစ္စာလင်းပြောင် မြတ်ဘုန်းခေါင်တို့ကိုလည်းကောင်း။",
+      "romanization": "Sambuddhe ca",
+      "translation": "And to the Glorious Ones who realized Truth with sunlight-like wisdom",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-5",
+      "order": 7,
+      "burmese": "ပဉ္စသတ သဟဿာနိ – သောင်းထိုက်စကြဝဠာ ဂုဏ်ဝါရောင်ရှိန်း ငါးသိန်းကုန်သော။",
+      "romanization": "Pañcasata sahassāni",
+      "translation": "And to the 500,000 who illuminated countless world-systems",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-6",
+      "order": 8,
+      "burmese": "သမ္ဗုဒ္ဓေစ – နေရောင်ပမာ ဉာဏ်ရောင်ဝါဖြင့် သစ္စာလင်းထိန် မြတ်မုနိန်တို့ကိုလည်းကောင်း။",
+      "romanization": "Sambuddhe ca",
+      "translation": "And to the Noble Sages who realized Truth with daylight-like wisdom",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-7",
+      "order": 9,
+      "burmese": "အဟံ – အကျွန်ုပ်သည်။ သိရသာ – ဦးခေါင်းရတနာ မြတ်အင်္ဂါဖြင့်။ နမာမိ – ရိုသေညွတ်ကျိုး လက်စုံမိုး၍ ရှိခိုးပါ၏။",
+      "romanization": "Ahaṃ sirasā namāmi",
+      "translation": "I pay homage with my head bowed in reverence",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-8",
+      "order": 10,
+      "burmese": "ဂင်္ဂါ – ဂင်္ဂါယ – ဂင်္ဂါမြစ်တွင်း၌။ ဝါဠုကာ – ရှိကြကုန်သော သဲတို့သည်။ အပ္ပကာ – နည်းကြကုန်သေး၏။",
+      "romanization": "Gaṅgāya vālukā appakā",
+      "translation": "The grains of sand in the Ganges River are few in comparison",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-9",
+      "order": 11,
+      "burmese": "နိဗ္ဗုတာ – ဘုံဇာတ်သိမ်း၍ ငြိမ်းအေးတော်မူကြကုန်ပြီးသော။ ဇိနာ – နှောင့်ယှက်ဖန်လာ မာရ်ငါးဖြာကို အရိယာမဂ် ဘုန်းရောင်စက်ဖြင့် ချိုးဖျက်လွယ်ကူ အောင်တော်မူသော ဘုရားရှင်အပေါင်းတို့ကား။ အနန္တာ – သင်္ချာဂဏန်း ရေတွက် မှန်းလည်း ဆုံးခန်းတိုင်မြောက် မရောက်နိုင်ကြကုန်။",
+      "romanization": "Nibbutā jinā anantā",
+      "translation": "The Conquerors who have attained Nibbana and defeated Mara are countless beyond measure",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-10",
+      "order": 12,
+      "burmese": "တေ ဇိနေစ – ထိုဘုရားရှင်တို့ကိုလည်းကောင်း။ တေသံ – ထိုငါးသိန်းတစ်သောင်းနှစ်ထောင်နှစ်ကျိတ်ရှစ်ဆူကုန်သော ဘုရားရှင်, မရေမတွက်နိုင်သော ဘုရားရှင်တို့၏။",
+      "romanization": "Te jineca tesaṃ",
+      "translation": "To those Conquerors, those 528,028 Buddhas and countless others",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-11",
+      "order": 13,
+      "burmese": "ဓမ္မဉ္စ – တရားတော်မြတ်ကိုလည်းကောင်း။ သံဃဉ္စ – တပည့်သား သံဃာတော်မြတ်ကိုလည်းကောင်း။ အဟံ – အကျွန်ုပ်သည်။ အာဒရေန – အာဒရံ – ရိုသေစွာ။ နမာမိ – ရှိခိုးပါ၏။",
+      "romanization": "Dhammañca saṅghañca ahaṃ ādarena namāmi",
+      "translation": "To their Noble Dhamma and their Sangha, I pay homage with reverence",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-12",
+      "order": 14,
+      "burmese": "နမက္ကာရာနုဘာဝေန – ဤသို့ရှိခိုးပူဇော် ဖူးမြော်မာန်လျော့ ကန်တော့ရသော ပဏာမကုသိုလ် စေတနာကြောင့်။ သဗ္ဗေ – ခပ်သိမ်းကုန်သော။ ဥပဒ္ဒဝေ – ဘေးရန်တို့ကို။ ဟိတွာ – ပယ်ဖျောက်၍။",
+      "romanization": "Namakkārānubhāvena sabbe upaddave hitvā",
+      "translation": "By the power of this homage and merit, may all dangers and misfortunes be averted",
+      "type": "verse"
+    },
+    {
+      "id": "explanation-13",
+      "order": 15,
+      "burmese": "အနေကာ အန္တရာယာပိ – တစ်ပါးမက များလှသွယ်သွယ် အန္တရာယ်တို့သည်လည်း။ အသေသတော – အကြွင်းအကျန်မရှိသော အားဖြင့်။ ဝိနဿန္တု – ပျောက်ပျက်ပါစေသတည်း။",
+      "romanization": "Anekā antarāyāpi vinassantu asesato",
+      "translation": "May all obstacles and hindrances be destroyed completely without remainder",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "intermediate",
+    "tags": ["daily", "28-buddhas", "homage", "protection"]
+  }
+}

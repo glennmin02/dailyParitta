@@ -1,0 +1,61 @@
+{
+  "prayers": [
+    {
+      "id": "nat-pint",
+      "file": "01-nat-pint.json",
+      "type": "morning"
+    },
+    {
+      "id": "okasa",
+      "file": "02-okasa.json",
+      "type": "morning"
+    },
+    {
+      "id": "sarana",
+      "file": "03-sarana.json",
+      "type": "morning"
+    },
+    {
+      "id": "buddha-gun",
+      "file": "04-buddha-gun.json",
+      "type": "morning"
+    },
+    {
+      "id": "dhamma-gun",
+      "file": "05-dhamma-gun.json",
+      "type": "morning"
+    },
+    {
+      "id": "sangha-gun",
+      "file": "06-sangha-gun.json",
+      "type": "morning"
+    },
+    {
+      "id": "vajira-pakara",
+      "file": "07-vajira-pakara.json",
+      "type": "morning"
+    },
+    {
+      "id": "buddha-28",
+      "file": "08-buddha-28.json",
+      "type": "morning"
+    },
+    {
+      "id": "maha-samaya",
+      "file": "09-maha-samaya.json",
+      "type": "morning"
+    },
+    {
+      "id": "blessings",
+      "file": "10-blessings.json",
+      "type": "morning"
+    },
+    {
+      "id": "nat-po",
+      "file": "11-nat-po.json",
+      "type": "morning"
+    }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2026-02-26"
+}

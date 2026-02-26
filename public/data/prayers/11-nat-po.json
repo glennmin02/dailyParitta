@@ -1,0 +1,57 @@
+{
+  "id": "nat-po",
+  "title": "နတ်ပို့ဂါထာ",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "နတ်ပို့ဂါထာ — နတ်ဗြဟ္မာတို့ ပို့ဆောင်ခြင်း",
+      "romanization": "Nat Po Gatha - Sending Off the Devas",
+      "translation": "Verse for Sending the Devas Back",
+      "type": "heading"
+    },
+    {
+      "id": "instruction-1",
+      "order": 2,
+      "burmese": "ကုသိုလ်အမျှဝေ၍ နတ်ဗြဟ္မာတို့အား မိမိဘုံသို့ ပြန်ပို့ဆောင်ခြင်း",
+      "romanization": "Sharing merit and sending devas back to their realms",
+      "translation": "Sharing the merit and sending the devas back to their realms",
+      "type": "instruction"
+    },
+    {
+      "id": "verse-1",
+      "order": 3,
+      "burmese": "ဧတ္တာဝတာ စ အမှေဟိ၊ သမ္ဘတံ ပုညသမ္ပဒံ။ သဗ္ဗေ ဒေဝါ နုမောဒန္တု၊ သဗ္ဗသမ္ပတ္တိ သိဒ္ဓိယာ။",
+      "romanization": "Ettāvatā ca amhehi, sambhataṃ puññasampadaṃ. Sabbe devā numodantu, sabbasampatti siddhiyā",
+      "translation": "To this extent, by us, merit has been accumulated. May all the devas rejoice for the fulfillment of all prosperity",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 4,
+      "burmese": "ဒါနံ ဒဒန္တု သဒ္ဓါယ၊ သီလံ ရက္ခန္တု သဗ္ဗဒါ။ ဘာဝနာဘိရတာ ဟောန္တု၊ ဂစ္ဆန္တု ဒေဝတာ ဂတာ။",
+      "romanization": "Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā. Bhāvanābhiratā hontu, gacchantu devatā gatā",
+      "translation": "May they give alms with faith, always guard their virtue, delight in meditation. May the devas go to their own realms",
+      "type": "verse"
+    },
+    {
+      "id": "heading-2",
+      "order": 5,
+      "burmese": "သာဓု သာဓု သာဓု",
+      "romanization": "Sādhu Sādhu Sādhu",
+      "translation": "Well done! Well done! Well done!",
+      "type": "heading"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "beginner",
+    "tags": ["daily", "closing", "merit-sharing"]
+  }
+}

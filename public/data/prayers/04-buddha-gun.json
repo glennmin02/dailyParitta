@@ -1,0 +1,105 @@
+{
+  "id": "buddha-gun",
+  "title": "ဘုရားဂုဏ်တော် ၉ ပါး",
+  "type": "morning",
+  "content": [
+    {
+      "id": "heading-1",
+      "order": 1,
+      "burmese": "ဘုရားဂုဏ်တော် ၉ ပါး",
+      "romanization": "Buddha Gon Daw Kou Par",
+      "translation": "The Nine Virtues of the Buddha",
+      "type": "heading"
+    },
+    {
+      "id": "verse-1",
+      "order": 2,
+      "burmese": "ဣတိပိ သော ဘဂဝါ —",
+      "romanization": "Itipi so bhagavā",
+      "translation": "Thus indeed is the Blessed One",
+      "type": "verse"
+    },
+    {
+      "id": "verse-2",
+      "order": 3,
+      "burmese": "အရဟံ",
+      "romanization": "Arahaṃ",
+      "translation": "1. Worthy of homage, purified of all defilements",
+      "type": "verse"
+    },
+    {
+      "id": "verse-3",
+      "order": 4,
+      "burmese": "သမ္မာသမ္ဗုဒ္ဓေါ",
+      "romanization": "Sammāsambuddho",
+      "translation": "2. Perfectly self-enlightened",
+      "type": "verse"
+    },
+    {
+      "id": "verse-4",
+      "order": 5,
+      "burmese": "ဝိဇ္ဇာစရဏသမ္ပန္နော",
+      "romanization": "Vijjācaraṇasampanno",
+      "translation": "3. Perfect in knowledge and conduct",
+      "type": "verse"
+    },
+    {
+      "id": "verse-5",
+      "order": 6,
+      "burmese": "သုဂတော",
+      "romanization": "Sugato",
+      "translation": "4. Well-gone, speaking only good words",
+      "type": "verse"
+    },
+    {
+      "id": "verse-6",
+      "order": 7,
+      "burmese": "လောကဝိဒူ",
+      "romanization": "Lokavidū",
+      "translation": "5. Knower of the worlds",
+      "type": "verse"
+    },
+    {
+      "id": "verse-7",
+      "order": 8,
+      "burmese": "အနုတ္တရောပုရိသဒမ္မသာရထိ",
+      "romanization": "Anuttaro purisadammasārathi",
+      "translation": "6. Incomparable trainer of persons to be tamed",
+      "type": "verse"
+    },
+    {
+      "id": "verse-8",
+      "order": 9,
+      "burmese": "သတ္ထာဒေဝမနုဿာနံ",
+      "romanization": "Satthā devamanussānaṃ",
+      "translation": "7. Teacher of gods and humans",
+      "type": "verse"
+    },
+    {
+      "id": "verse-9",
+      "order": 10,
+      "burmese": "ဗုဒ္ဓေါ",
+      "romanization": "Buddho",
+      "translation": "8. The Enlightened One",
+      "type": "verse"
+    },
+    {
+      "id": "verse-10",
+      "order": 11,
+      "burmese": "ဘဂဝါ",
+      "romanization": "Bhagavā",
+      "translation": "9. The Blessed One",
+      "type": "verse"
+    }
+  ],
+  "counterConfig": {
+    "enabled": true,
+    "defaultCount": 1
+  },
+  "metadata": {
+    "author": "Traditional Myanmar Buddhist Chanting",
+    "source": "Theravada Buddhist Tradition",
+    "difficulty": "beginner",
+    "tags": ["daily", "buddha", "virtues"]
+  }
+}
