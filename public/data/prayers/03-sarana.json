@@ -11,74 +11,93 @@
       "type": "heading"
     },
     {
-      "id": "verse-1",
+      "id": "instruction-1",
       "order": 2,
+      "burmese": "ဗုဒ္ဓ၊ ဓမ္မ၊ သံဃာ ကိုးကွယ်ရာ ဆည်းကပ်ခြင်း",
+      "translation": "Taking refuge in Buddha, Dhamma, and Sangha",
+      "type": "instruction"
+    },
+    {
+      "id": "verse-1",
+      "order": 3,
       "burmese": "ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Buddhaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "I take refuge in the Buddha",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဗုဒ္ဓရတနာကို ကိုးကွယ်ရာဟူ၍ ဆည်းကပ်ပါ၏"
     },
     {
       "id": "verse-2",
-      "order": 3,
+      "order": 4,
       "burmese": "ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Dhammaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "I take refuge in the Dhamma",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဓမ္မရတနာကို ကိုးကွယ်ရာဟူ၍ ဆည်းကပ်ပါ၏"
     },
     {
       "id": "verse-3",
-      "order": 4,
+      "order": 5,
       "burmese": "သံဃံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Saṅghaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "သံဃံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "I take refuge in the Sangha",
-      "type": "verse"
+      "type": "verse",
+      "notes": "သံဃာရတနာကို ကိုးကွယ်ရာဟူ၍ ဆည်းကပ်ပါ၏"
     },
     {
       "id": "verse-4",
-      "order": 5,
+      "order": 6,
       "burmese": "ဒုတိယမ္ပိ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Dutiyampi buddhaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "ဒုတိယမ်ပိ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "For the second time, I take refuge in the Buddha",
       "type": "verse"
     },
     {
       "id": "verse-5",
-      "order": 6,
+      "order": 7,
       "burmese": "ဒုတိယမ္ပိ ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Dutiyampi dhammaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "ဒုတိယမ်ပိ ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "For the second time, I take refuge in the Dhamma",
       "type": "verse"
     },
     {
       "id": "verse-6",
-      "order": 7,
+      "order": 8,
       "burmese": "ဒုတိယမ္ပိ သံဃံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Dutiyampi saṅghaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "ဒုတိယမ်ပိ သံဃံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "For the second time, I take refuge in the Sangha",
       "type": "verse"
     },
     {
       "id": "verse-7",
-      "order": 8,
+      "order": 9,
       "burmese": "တတိယမ္ပိ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Tatiyampi buddhaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "တတိယမ်ပိ ဗုဒ္ဓံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "For the third time, I take refuge in the Buddha",
       "type": "verse"
     },
     {
       "id": "verse-8",
-      "order": 9,
+      "order": 10,
       "burmese": "တတိယမ္ပိ ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Tatiyampi dhammaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "တတိယမ်ပိ ဓမ္မံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "For the third time, I take refuge in the Dhamma",
       "type": "verse"
     },
     {
       "id": "verse-9",
-      "order": 10,
+      "order": 11,
       "burmese": "တတိယမ္ပိ သံဃံ သရဏံ ဂစ္ဆာမိ။",
       "romanization": "Tatiyampi saṅghaṃ saraṇaṃ gacchāmi",
+      "burmeseRomanization": "တတိယမ်ပိ သံဃံ သရဏံ ဂစ္ဆာမိ။",
       "translation": "For the third time, I take refuge in the Sangha",
       "type": "verse"
     }

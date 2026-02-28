@@ -6,25 +6,278 @@
     {
       "id": "heading-1",
       "order": 1,
-      "burmese": "မဟာသမယသုတ် (အကျဉ်းချုပ်)",
-      "romanization": "Mahā Samaya Sutta (Excerpt)",
-      "translation": "The Great Assembly Discourse (Summary)",
+      "burmese": "မဟာသမယသုတ် (ဒီဃနိကာယ် ပါဋိကဝဂ်)",
+      "translation": "The Great Assembly Discourse (Dīgha Nikāya - Pāṭika Vagga)",
       "type": "heading"
     },
     {
       "id": "instruction-1",
       "order": 2,
-      "burmese": "နတ်ဗြဟ္မာ ဆယ်ဘုံစလုံးမှ လာရောက်ဖူးမြော်ကြပါသည်",
-      "romanization": "Devas and Brahmas from all realms came to pay respects",
-      "translation": "Devas and Brahmas from the ten thousand worlds came to pay respects to the Buddha",
+      "burmese": "နတ်ဗြဟ္မာ ဆယ်ဘုံစလုံးမှ ဘုရားရှင်ထံ လာရောက်ဖူးမြော်ကြပါသည်။ အသက်ရှည်ကျန်းမာစေခြင်း၊ သဗ္ဗသမ္ပတ္တိ ပြည့်စုံစေခြင်း၊ ရောဂဘေးအန္တရာယ်ကို ပျောက်ကင်းစေခြင်း အစွမ်းထက်သော သုတ်တော်",
+      "translation": "Devas and Brahmas from all realms came to pay respects to the Buddha. This powerful sutta brings longevity, prosperity, and protection from illness.",
       "type": "instruction"
     },
     {
-      "id": "verse-1",
+      "id": "verse-pyoe",
       "order": 3,
-      "burmese": "ဧဝံ မေ သုတံ — ဧကံ သမယံ ဘဂဝါ သက္ကေသု ဝိဟရတိ ကပိလဝတ္ထုသ္မိံ မဟာဝနေ မဟတာ ဘိက္ခုသံဃေန သဒ္ဓိံ ပဉ္စမတ္တေဟိ ဘိက္ခုသတေဟိ...",
-      "romanization": "Evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi",
-      "translation": "Thus have I heard — At one time the Blessed One was staying among the Sakyans at Kapilavatthu in the Great Wood together with a large Saṅgha of about five hundred bhikkhus",
+      "burmese": "သတေဟိ ပဉ္စမတ္တေဟိ၊ ခီဏာသဝေဟိ ကေဝလံ။ ဘိက္ခူဟိ ဘူပဝံသေဟိ၊ သတ္ထာ ဇိနော ပရိဝုတော။ သက္ကေ ကပိလဝတ္ထုသ္မိံ၊ ဆာယာရမ္မေ မဟာဝနေ။ သမန္တတော သဟဿေဟိ၊ စက္ကဝါဠေဟိ ဒသဟိ။ အာဂမ္မ သန္နိသိန္နာနံ၊ ဒေဝါနံ ယ'မဒေသယိ။ အာယုဒီဃကရံ သဗ္ဗ-သမ္ပတ္တိသာဓကံ ဝရံ။ သုဒ္ဓါဝါသပ္ပဘူတီဟိ၊ ဒေဝေဟိ ပဋိနန္ဒိတံ။ သဗ္ဗရောဂဘယုဂ္ဃာတံ၊ သမယံ တံ ဘဏာမ ဟေ။",
+      "romanization": "Satehi pañcamattehi, khīṇāsavehi kevalaṃ...",
+      "burmeseRomanization": "သတေဟိ ပဉ္စမတ်တေဟိ၊ ခီဏာသဝေဟိ ကေဝလံ။ ဘိက္ခူဟိ ဘူပဝံသေဟိ၊ သတ္ထာ ဇိနော ပရိဝုတော။",
+      "translation": "Opening verses - The Teacher, surrounded by five hundred arahants, taught this discourse to devas from ten thousand world-systems",
+      "type": "verse"
+    },
+    {
+      "id": "verse-331",
+      "order": 4,
+      "burmese": "ဧဝံ မေ သုတံ — ဧကံ သမယံ ဘဂဝါ သက္ကေသု ဝိဟရတိ ကပိလဝတ္ထုသ္မိံ မဟာဝနေ မဟတာ ဘိက္ခုသံဃေန သဒ္ဓိံ ပဉ္စမတ္တေဟိ ဘိက္ခုသတေဟိ သဗ္ဗေဟေဝ အရဟန္တေဟိ၊ ဒသဟိ စ လောကဓာတူဟိ ဒေဝတာ ယေဘုယျေန သန္နိပတိတာ ဟောန္တိ ဘဂဝန္တံ ဒဿနာယ ဘိက္ခုသံဃဉ္စ။",
+      "romanization": "Evaṃ me sutaṃ — ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane...",
+      "burmeseRomanization": "ဧဝံ မေ သုတံ — ဧကံ သမယံ ဘဂဝါ သက်ကေသု ဝိဟရတိ ကပိလဝတ္ထုသ်မိံ မဟာဝနေ...",
+      "translation": "Thus have I heard: At one time the Blessed One was staying among the Sakyans at Kapilavatthu in the Great Wood with about five hundred bhikkhus, all arahants. Devas from ten world-systems came to see the Blessed One and the Sangha.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-332",
+      "order": 5,
+      "burmese": "\"မဟာသမယော ပဝနသ္မိံ၊ ဒေဝကာယာ သမာဂတာ။ အာဂတမွ ဣမံ ဓမ္မသမယံ၊ ဒက္ခိတာယေ အပရာဇိတသံဃံ\" ဣတိ။",
+      "romanization": "Mahāsamayo pavanasmim, devakāyā samāgatā...",
+      "burmeseRomanization": "\"မဟာသမယော ပဝနသ်မိံ၊ ဒေဝကာယာ သမာဂတာ။ အာဂတမွ ဣမံ ဓမ္မသမယံ၊ ဒက္ခိတာယေ အပရာဇိတသံဃံ\" ဣတိ။",
+      "translation": "A great assembly in the forest! Hosts of devas have come together. We have come to this Dhamma assembly to see the unconquered Sangha.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-333-intro",
+      "order": 6,
+      "burmese": "\"ဒေဝကာယာ အဘိက္ကန္တာ၊ တေ ဝိဇာနာထ ဘိက္ခဝေါ\"",
+      "romanization": "Devakāyā abhikkantā, te vijānātha bhikkhavo",
+      "burmeseRomanization": "\"ဒေဝကာယာ အဘိက်ကန်တာ၊ တေ ဝိဇာနာထ ဘိက္ခဝေါ\"",
+      "translation": "Hosts of devas have come. Know them, bhikkhus!",
+      "type": "verse"
+    },
+    {
+      "id": "heading-bhumi",
+      "order": 7,
+      "burmese": "ဘူမိနတ် ၁၆၀၀၀",
+      "translation": "16,000 Earth Devas",
+      "type": "heading"
+    },
+    {
+      "id": "verse-334",
+      "order": 8,
+      "burmese": "သိလောကံ မနုစက္ခဿာမိ၊ ယတ္ထ ဘုမ္မာ တဒဿိတာ။ ယေ သိတာ ဂိရိဗ္ဗာဇံ၊ ပဟိတတ္တာ သမာဟိတာ။ ပုထူ သီဟာဝ သလ္လီနာ၊ လောမဟံသာဘိသမ္ဘုနော။ ဩဒါတမနသာ သုဒ္ဓါ၊ ဝိပ္ပသန္နမနာဝိလာ။ ဘိယျော ပဉ္စသတေ ဉတွာ၊ ဝနေ ကာပိလဝတ္ထဝေ။",
+      "romanization": "Silokaṃ manucakkhassāmi, yattha bhummā tadassitā...",
+      "burmeseRomanization": "သိလောကံ မနုစက္ခဿာမိ၊ ယတ္ထ ဘုမ္မာ တဒဿိတာ။ ယေ သိတာ ဂိရိဗ္ဗာဇံ၊ ပဟိတတ္တာ သမာဟိတာ...",
+      "translation": "I shall recite verses about the earth devas dwelling here. Those dwelling in mountain caves, composed and concentrated, many like hidden lions, with hair-raising awe. With pure minds, clear and serene. More than five hundred in the Kapilavatthu forest.",
+      "type": "verse"
+    },
+    {
+      "id": "heading-yakkha",
+      "order": 9,
+      "burmese": "ယက္ခနတ်များ",
+      "translation": "Yakkha Spirits",
+      "type": "heading"
+    },
+    {
+      "id": "verse-335",
+      "order": 10,
+      "burmese": "သတ္တသဟဿာ တေ ယက္ခာ၊ ဘုမ္မာ ကာပိလဝတ္ထဝါ။ ဣဒ္ဓိမန္တော ဇုတိမန္တော၊ ဝဏ္ဏဝန္တော ယသဿိနော။ မောဒမာနာ အဘိက္ကာမုံ၊ ဘိက္ခူနံ သမိတိံ ဝနံ။",
+      "romanization": "Sattasahassā te yakkhā, bhummā kāpilavatthavā...",
+      "burmeseRomanization": "သတ္တသဟဿာ တေ ယက္ခာ၊ ဘုမ္မာ ကာပိလဝတ္ထဝါ။ ဣဒ္ဓိမန်တော ဇုတိမန်တော၊ ဝဏ္ဏဝန်တော ယသဿိနော...",
+      "translation": "Seven thousand yakkhas dwelling in Kapilavatthu, powerful, radiant, beautiful and famous, rejoicing came to the monks' assembly in the forest.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-335b",
+      "order": 11,
+      "burmese": "ဆ သဟဿာ ဟေမဝတာ၊ ယက္ခာ နာနတ္တဝဏ္ဏိနော။ သာတာဂိရာ တိသဟဿာ၊ ယက္ခာ နာနတ္တဝဏ္ဏိနော။ ဣစ္စေတေ သောဠသ သဟဿာ၊ ယက္ခာ နာနတ္တဝဏ္ဏိနော။",
+      "romanization": "Cha sahassā hemavatā, yakkhā nānattavaṇṇino...",
+      "burmeseRomanization": "ဆ သဟဿာ ဟေမဝတာ၊ ယက္ခာ နာနတ်တဝဏ္ဏိနော။ သာတာဂိရာ တိသဟဿာ၊ ယက္ခာ နာနတ်တဝဏ္ဏိနော...",
+      "translation": "Six thousand yakkhas from Himavanta of various colors, three thousand from Sātāgira. Thus these sixteen thousand yakkhas of various colors.",
+      "type": "verse"
+    },
+    {
+      "id": "heading-maharaja",
+      "order": 12,
+      "burmese": "စတုမဟာရာဇ် နတ်မင်းကြီး ၄ ပါး",
+      "translation": "The Four Great Kings",
+      "type": "heading"
+    },
+    {
+      "id": "verse-336",
+      "order": 13,
+      "burmese": "ပုရိမဉ္စဒိသံ ရာဇာ၊ ဓတရဋ္ဌော ပသာသတိ။ ဂန္ဓဗ္ဗာနံ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "romanization": "Purimañcadisaṃ rājā, Dhataraṭṭho pasāsati. Gandhabbānaṃ adhipati, mahārājā yasassiso",
+      "burmeseRomanization": "ပုရိမဉ်စဒိသံ ရာဇာ၊ ဓတရဋ္ဌော ပသာသတိ။ ဂန်ဓဗ္ဗာနံ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "translation": "King Dhataraṭṭha rules the East, lord of the Gandhabbas, a famous great king.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-336b",
+      "order": 14,
+      "burmese": "ဒက္ခိဏဉ္စဒိသံ ရာဇာ၊ ဝိရူဠှော တံ ပသာသတိ။ ကုမ္ဘဏ္ဍာနံ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "romanization": "Dakkhiṇañcadisaṃ rājā, Virūḷhako taṃ pasāsati...",
+      "burmeseRomanization": "ဒက္ခိဏဉ်စဒိသံ ရာဇာ၊ ဝိရူဠှော တံ ပသာသတိ။ ကုမ္ဘဏ္ဍာနံ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "translation": "King Virūḷhaka rules the South, lord of the Kumbhaṇḍas, a famous great king.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-336c",
+      "order": 15,
+      "burmese": "ပစ္ဆိမဉ္စဒိသံ ရာဇာ၊ ဝိရူပက္ခော ပသာသတိ။ နာဂါနဉ္စ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "romanization": "Pacchimañcadisaṃ rājā, Virūpakkho pasāsati...",
+      "burmeseRomanization": "ပစ္ဆိမဉ်စဒိသံ ရာဇာ၊ ဝိရူပက္ခော ပသာသတိ။ နာဂါနဉ်စ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "translation": "King Virūpakkha rules the West, lord of the Nāgas, a famous great king.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-336d",
+      "order": 16,
+      "burmese": "ဥတ္တရဉ္စဒိသံ ရာဇာ၊ ကုဝေရော တံ ပသာသတိ။ ယက္ခာနဉ္စ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "romanization": "Uttarañcadisaṃ rājā, Kuvero taṃ pasāsati...",
+      "burmeseRomanization": "ဥတ္တရဉ်စဒိသံ ရာဇာ၊ ကုဝေရော တံ ပသာသတိ။ ယက္ခာနဉ်စ အဓိပတိ၊ မဟာရာဇာ ယသဿိသော။",
+      "translation": "King Kuvera rules the North, lord of the Yakkhas, a famous great king.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-336e",
+      "order": 17,
+      "burmese": "စတ္တာရော တေ မဟာရာဇာ၊ သမန္တာ စတုရော ဒိသာ။ ဒဒ္ဒလ္လမာနာ အဋ္ဌံသု၊ ဝနေ ကာပိလဝတ္ထဝေ။",
+      "romanization": "Cattāro te mahārājā, samantā caturo disā. Daddallmānā aṭṭhaṃsu, vane kāpilavatthave",
+      "burmeseRomanization": "စတ္တာရော တေ မဟာရာဇာ၊ သမန်တာ စတုရော ဒိသာ။ ဒဒ္ဒလ်လမာနာ အဋ္ဌံသု၊ ဝနေ ကာပိလဝတ္ထဝေ။",
+      "translation": "These four great kings stood shining in the Kapilavatthu forest, guarding the four directions.",
+      "type": "verse"
+    },
+    {
+      "id": "heading-naga",
+      "order": 18,
+      "burmese": "နာဂါ ဂဠုန် အသုရာများ",
+      "translation": "Nāgas, Garuḍas, and Asuras",
+      "type": "heading"
+    },
+    {
+      "id": "verse-338",
+      "order": 19,
+      "burmese": "အထာဂုံ နာဂသာ နာဂါ၊ ဝေသာလာ သဟ တစ္ဆကာ။ ကမ္ဗလဿတရာ အာဂုံ၊ ပါယာဂါ သဟ ဉာတိဘိ။ ယာမုနာ ဓတရဋ္ဌာ စ၊ အာဂူ နာဂါ ယသဿိနော။ ဧရာဝဏော မဟာနာဂေါ၊ သော ပါဂါ သမိတိံ ဝနံ။",
+      "romanization": "Athāguṃ nāgasā nāgā, Vesālā saha Tacchakā...",
+      "burmeseRomanization": "အထာဂုံ နာဂသာ နာဂါ၊ ဝေသာလာ သဟ တစ္ဆကာ။ ကမ်ဗလဿတရာ အာဂုံ၊ ပါယာဂါ သဟ ဉာတိဘိ...",
+      "translation": "Then came the Nāgas from Nāgasa, Vesālā with Tacchaka, Kambala and Assatara, Pāyāga with relatives, Yāmuna and Dhataraṭṭha Nāgas came with glory. The great Nāga Erāvaṇa came to the forest assembly.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-supanna",
+      "order": 20,
+      "burmese": "ယေ နာဂရာဇေ သဟသာ ဟရန္တိ၊ ဒိဗ္ဗာ ဒိဇာ ပက္ခိဝိသုဒ္ဓစက္ခူ၊ ဝေဟာယသာ တေ ဝနမဇ္ဈပတ္တာ၊ စိတြာ သုပဏ္ဏာ ဣတိ တေသ နာမံ။ အဘယံ တဒါ နာဂရာဇာနမာသိ၊ သုပဏ္ဏတော ခေမံ အကာသိ ဗုဒ္ဓေါ။ သဏှာဟိ ဝါစာဟိ ဥပဝှယန္တာ၊ နာဂါ သုပဏ္ဏာ သရဏံ အကံသု ဗုဒ္ဓံ။",
+      "romanization": "Ye nāgarāje sahasā haranti, dibbā dijā pakkhivisuddha-cakkhū...",
+      "burmeseRomanization": "ယေ နာဂရာဇေ သဟသာ ဟရန်တိ၊ ဒိဗ္ဗာ ဒိဇာ ပက္ခိဝိသုဒ္ဓစက္ခူ၊ ဝေဟာယသာ တေ ဝနမဇ္ဈပတ္တာ၊ စိတြာ သုပဏ္ဏာ ဣတိ တေသ နာမံ...",
+      "translation": "The divine birds (Garuḍas) who swiftly seize the Nāga kings, with pure vision, came through the sky to the forest. They are called Supaṇṇas. The Buddha made safety for the Nāga kings from the Supaṇṇas. With gentle words both Nāgas and Supaṇṇas took refuge in the Buddha.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-339",
+      "order": 21,
+      "burmese": "ဇိတာ ဝဇိရဟတ္ထေန၊ သမုဒ္ဒံ အသုရာ သိတာ။ ဘာတရော ဝါသဝဿေတေ၊ ဣဒ္ဓိမန္တော ယသဿိနော။ ကာလကဉ္စာ မဟာဘိသ္မာ၊ အသုရာ ဒါနဝေဃသာ။ ဝေပစိတ္တိ သုစိတ္တိ စ၊ မဟာရာဟေါ နမုစီ သဟ။",
+      "romanization": "Jitā vajirahatthena, samuddaṃ asurā sitā...",
+      "burmeseRomanization": "ဇိတာ ဝဇိရဟတ္ထေန၊ သမုဒ္ဒံ အသုရာ သိတာ။ ဘာတရော ဝါသဝဿေတေ၊ ဣဒ္ဓိမန်တော ယသဿိနော...",
+      "translation": "The Asuras defeated by Vajira-hander (Indra), dwelling in the ocean. Brothers of Vāsava, powerful and famous. Kālakañcā, the great dreadful ones, Asuras, Dānaveghasa, Vepacitti, Sucitti, and Mahārāhu with Namuci.",
+      "type": "verse"
+    },
+    {
+      "id": "heading-deva60",
+      "order": 22,
+      "burmese": "(၁၀) မျိုး (၆) လီ နတ်များ",
+      "translation": "The Ten Types of Six-fold Devas",
+      "type": "heading"
+    },
+    {
+      "id": "verse-340",
+      "order": 23,
+      "burmese": "အာပေါ စ ဒေဝါ ပထဝီ၊ တေဇော ဝါယော တဒါဂမုံ။ ဝရုဏာ ဝါရုဏာ ဒေဝါ၊ သောမော စ ယမသာ သဟ။ မေတ္တာ ကရုဏာ ကာယိကာ၊ အာဂုံ ဒေဝါ ယသဿိနော။ ဒသေတေ ဒသဓာ ကာယာ၊ သဗ္ဗေ နာနတ္တဝဏ္ဏိနော။",
+      "romanization": "Āpo ca devā pathavī, tejo vāyo tadāgamuṃ...",
+      "burmeseRomanization": "အာပေါ စ ဒေဝါ ပထဝီ၊ တေဇော ဝါယော တဒါဂမုံ။ ဝရုဏာ ဝါရုဏာ ဒေဝါ၊ သောမော စ ယမသာ သဟ...",
+      "translation": "The devas of Water, Earth, Fire and Wind came. Varuṇa and Vāruṇa devas, Soma with Yasa. Mettā and Karuṇā-bodied devas came, famous ones. These ten groups of ten, all of various colors.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-340b",
+      "order": 24,
+      "burmese": "ဝေဏ္ဍုဒေဝါ သဟလိ စ၊ အသမာ စ ဒုဝေ ယမာ။ စန္ဒဿူပနိသာ ဒေဝါ၊ စန္ဒမာဂုံ ပုရက္ခတွာ။ သူရိယဿူပနိသာ ဒေဝါ၊ သူရိယမာဂုံ ပုရက္ခတွာ။ နက္ခတ္တာနိ ပုရက္ခတွာ၊ အာဂုံ မန္ဒဝလာဟကာ။ ဝသူနံ ဝါသဝေါ သေဋ္ဌော၊ သက္ကော ပါဂါ ပုရိန္ဒဒေါ။",
+      "romanization": "Veṇḍudevā Sahali ca, Asamā ca duve yamā...",
+      "burmeseRomanization": "ဝေဏ္ဍုဒေဝါ သဟလိ စ၊ အသမာ စ ဒုဝေ ယမာ။ စန်ဒဿူပနိသာ ဒေဝါ၊ စန်ဒမာဂုံ ပုရက္ခတွာ...",
+      "translation": "Veṇḍu devas with Sahali, Asamā and two Yama twins. Moon-attending devas came with the Moon in front. Sun-attending devas came with the Sun in front. Star-attending devas came with the constellations. Rain-cloud devas came. Vāsava, chief of the Vasus, Sakka the giver came.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-340c",
+      "order": 25,
+      "burmese": "ခေမိယာ တုသိတာ ယာမာ၊ ကဋ္ဌကာ စ ယသဿိနော။ လမ္ဗီတကာ လာမသေဋ္ဌာ၊ ဇောတိနာမာ စ အာသဝါ။ နိမ္မာနရတိနော အာဂုံ၊ အထာဂုံ ပရနိမ္မိတာ။ သဋ္ဌေတေ ဒေဝနိကာယာ၊ သဗ္ဗေ နာနတ္တဝဏ္ဏိနော။",
+      "romanization": "Khemiyā Tusitā Yāmā, Kaṭṭhakā ca yasassino...",
+      "burmeseRomanization": "ခေမိယာ တုသိတာ ယာမာ၊ ကဋ္ဌကာ စ ယသဿိနော။ လမ္ဗီတကာ လာမသေဋ္ဌာ၊ ဇောတိနာမာ စ အာသဝါ...",
+      "translation": "Khemiya, Tusita, Yāma, Kaṭṭhaka devas famous ones. Lambītaka, Lāmaseṭṭha, Jotināma and Āsava. Nimmānaratino came, and Paranimmita devas. These sixty deva groups, all of various colors.",
+      "type": "verse"
+    },
+    {
+      "id": "heading-brahma",
+      "order": 26,
+      "burmese": "ဗြဟ္မာများ",
+      "translation": "Brahmas",
+      "type": "heading"
+    },
+    {
+      "id": "verse-341",
+      "order": 27,
+      "burmese": "သုဗြဟ္မာ ပရမတ္တော စ၊ ပုတ္တာ ဣဒ္ဓိမတော သဟ။ သနင်္ကုမာရော တိဿော စ၊ သောပါဂ သမိတိံ ဝနံ။ သဟဿံ ဗြဟ္မလောကာနံ၊ မဟာဗြဟ္မာဘိတိဋ္ဌတိ။ ဥပပန္နော ဇုတိမန္တော၊ ဘိသ္မာကာယော ယသဿိသော။ ဒသေတ္ထ ဣဿရာ အာဂုံ၊ ပစ္စေကဝသဝတ္တိနော။ တေသဉ္စ မဇ္ဈတော အာဂါ၊ ဟာရိတော ပရိဝါရိတော။",
+      "romanization": "Subrahmā Paramatto ca, puttā iddhimato saha...",
+      "burmeseRomanization": "သုဗြဟ္မာ ပရမတ်တော စ၊ ပုတ္တာ ဣဒ္ဓိမတော သဟ။ သနင်္ကုမာရော တိဿော စ၊ သောပါဂ သမိတိံ ဝနံ...",
+      "translation": "Subrahmā and Paramatta, with powerful sons. Sanaṅkumāra and Tissa came to the forest assembly. A thousand Brahma worlds, Mahābrahmā presides. Born radiant, with awesome body, famous. Ten lords came, each sovereign in their realm. Among them came Hārita, surrounded by retinue.",
+      "type": "verse"
+    },
+    {
+      "id": "heading-mara",
+      "order": 28,
+      "burmese": "မာရ်နတ် နှောင့်ယှက်ပုံ",
+      "translation": "Mara's Interference",
+      "type": "heading"
+    },
+    {
+      "id": "verse-342",
+      "order": 29,
+      "burmese": "တေ စ သဗ္ဗေ အဘိက္ကန္တေ၊ သဣန္ဒေ ဒေဝေ သဗြဟ္မကေ — မာရသေနာ အဘိက္ကာမိ၊ ပဿ ကဏှဿ မန္ဒိယံ။ \"ဧထ ဂဏှထ ဗန္ဓထ၊ ရာဂေန ဗဒ္ဓမတ္ထု ဝေါ။ သမန္တာ ပရိဝါရေထ၊ မာ ဝေါ မုဉ္စိတ္ထ ကောစိနံ\"။",
+      "romanization": "Te ca sabbe abhikkante, sainde deve sabrahmake — mārasenā abhikkāmi, passa kaṇhassa mandiyaṃ...",
+      "burmeseRomanization": "တေ စ သဗ္ဗေ အဘိက်ကန်တေ၊ သဣန်ဒေ ဒေဝေ သဗြဟ္မကေ — မာရသေနာ အဘိက်ကာမိ၊ ပဿ ကဏှဿ မန်ဒိယံ...",
+      "translation": "When all those devas with Indra and Brahmas approached — Mara's army also advanced. See the Dark One's foolishness! 'Come, seize them, bind them! May you be bound by passion! Surround them on all sides, let none escape!'",
+      "type": "verse"
+    },
+    {
+      "id": "verse-343",
+      "order": 30,
+      "burmese": "တဉ္စ သဗ္ဗံ အဘိညာယ၊ ဝဝတ္ထိတွာန စက္ခုမာ။ တေတာ အာမန္တယီ သတ္ထာ၊ သာဝကေ သာသနေ ရတေ — \"မာရသေနာ အဘိက္ကန္တာ၊ တေ ဝိဇာနာထ ဘိက္ခဝေါ\"။ တေ စ အာတပ္ပမကရုံ၊ သုတွာ ဗုဒ္ဓဿ သာသနံ။ ဝီတရာဂေဟိ ပက္ကာမုံ၊ နေသံ လောမာပိ ဣဉ္ဇယုံ။ သဗ္ဗေ ဂတသိဒ္ဓိဂ္ဂါမာ၊ ဘယာတီတာ ယသဿိနော။ မောဒန္တိ သဟ ဘူတေဟိ၊ သာဝကာ တေ ဇနေသုတာ တိ။",
+      "romanization": "Tañca sabbaṃ abhiññāya, vavatthitvāna cakkhumā...",
+      "burmeseRomanization": "တဉ်စ သဗ္ဗံ အဘိညာယ၊ ဝဝတ္ထိတွာန စက္ခုမာ။ တေတာ အာမန်တယီ သတ္ထာ၊ သာဝကေ သာသနေ ရတေ...",
+      "translation": "Knowing all this fully, the All-Seeing One addressed his disciples delighting in the teaching: 'Mara's army approaches — know them, monks!' Hearing the Buddha's teaching, they made effort. Mara departed from the passion-free ones, not even a hair of theirs stirred. All victorious, gone beyond fear, famous. They rejoice with beings, those disciples renowned among people.",
+      "type": "verse"
+    },
+    {
+      "id": "heading-end",
+      "order": 31,
+      "burmese": "မဟာသမယသုတ္တံ နိဋ္ဌိတံ။",
+      "translation": "The Mahā Samaya Sutta is complete.",
+      "type": "heading"
+    },
+    {
+      "id": "verse-deva-exhort",
+      "order": 32,
+      "burmese": "သဗ္ဗေသု စက္ကဝါဠေသု၊ ယက္ခာ ဒေဝါ စ ဗြဟ္မနော။ ယံ အမှေဟိ ကတံ ပုညံ၊ သဗ္ဗသမ္ပတ္တိသာဓကံ။ သဗ္ဗေတံ အနုမောဒိတွာ၊ သမဂ္ဂါ သာသနေ ရတာ၊ ပမာဒရဟိတာ ဟောန္တု၊ အာရက္ခာသု ဝိသေသတော။ သာသနဿ စ လောကဿ၊ ဝုဍ္ဎိ ဘဝတု သဗ္ဗဒါ။ သာသနမ္ပိ စ လောကဉ္စ၊ ဒေဝါ ရက္ခန္တု သဗ္ဗဒါ။",
+      "romanization": "Sabbesu cakkavāḷesu, yakkhā devā ca brahmaṇo...",
+      "burmeseRomanization": "သဗ္ဗေသု စက်ကဝါလေသု၊ ယက္ခာ ဒေဝါ စ ဗြဟ္မနော။ ယံ အမှေဟိ ကတံ ပုညံ၊ သဗ္ဗသမ်ပတ်တိသာဓကံ...",
+      "translation": "In all world-systems, may yakkhas, devas and brahmas rejoice in the merit we have made, which brings all prosperity. United, delighting in the teaching, may they be free from negligence, especially in protection. May there be growth of the Sāsana and the world always. May devas protect the Sāsana and the world always.",
+      "type": "verse"
+    },
+    {
+      "id": "verse-blessing",
+      "order": 33,
+      "burmese": "သဒ္ဓိံ ဟောန္တု သုခီ သဗ္ဗေ၊ ပရိဝါရေဟိ အတ္တနော။ အနီဃာ သုမနာ ဟောန္တု၊ အဝေရာ သုမနာ ဟောန္တု၊ အဗျာပဇ္ဈာ သုမနာ ဟောန္တု၊ အသောကာ သုမနာ ဟောန္တု၊ သဟ သဗ္ဗေဟိ ဉာတိဘိ။",
+      "romanization": "Saddhiṃ hontu sukhī sabbe, parivārehi attano...",
+      "burmeseRomanization": "သဒ္ဓိံ ဟောန်တု သုခီ သဗ္ဗေ၊ ပရိဝါရေဟိ အတ်တနော။ အနီဃာ သုမနာ ဟောန်တု၊ အဝေရာ သုမနာ ဟောန်တု...",
+      "translation": "May all be happy with their retinue. May they be free from affliction, glad-hearted. May they be free from enmity, glad-hearted. May they be free from ill-will, glad-hearted. May they be free from sorrow, glad-hearted, together with all relatives.",
       "type": "verse"
     }
   ],
@@ -35,7 +288,7 @@
   "metadata": {
     "author": "Traditional Myanmar Buddhist Chanting",
     "source": "Dīgha Nikāya - Pāṭika Vagga",
-    "difficulty": "beginner",
-    "tags": ["daily", "sutta", "devas"]
+    "difficulty": "advanced",
+    "tags": ["daily", "sutta", "devas", "protection", "longevity"]
   }
 }

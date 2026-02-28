@@ -22,10 +22,10 @@ export const PrayerListPage: React.FC = () => {
       const query = searchQuery.toLowerCase()
       setFilteredPrayers(
         prayers.filter(
-          prayer =>
+          (prayer: Prayer) =>
             prayer.title.toLowerCase().includes(query) ||
             prayer.type.toLowerCase().includes(query) ||
-            prayer.metadata?.tags?.some(tag =>
+            prayer.metadata?.tags?.some((tag: string) =>
               tag.toLowerCase().includes(query)
             )
         )

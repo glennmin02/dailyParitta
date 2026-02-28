@@ -22,24 +22,30 @@
       "order": 3,
       "burmese": "သမန္တာ စက္ကဝါဠေသု၊ အတြာဂစ္ဆန္တု ဒေဝတာ။",
       "romanization": "Samantā cakkavāḷesu, atrāgacchantu devatā",
+      "burmeseRomanization": "သမန်တာ စက်ကဝါလေသု၊ အတြာဂစ္ဆန်တု ဒေဝတာ။",
       "translation": "May all devas from the ten thousand world systems come here",
-      "type": "verse"
+      "type": "verse",
+      "notes": "သမန္တာ - ဤစကြဝဠာခွင် ပတ်ဝန်းကျင်မှ၊ စက္ကဝါဠေသု - စကြဝဠာပေါင်း တိုက်တစ်သောင်းတို့၌၊ ဒေဝတာ - နတ်ဗြဟ္မာတို့သည်၊ အတြ - ဤပရိတ်တရား ဟောကြားရာ ဌာနသို့၊ အာဂစ္ဆန္တု - လာရောက်ကြကုန်လော့"
     },
     {
       "id": "verse-2",
       "order": 4,
       "burmese": "သဒ္ဓမ္မံ မုနိရာဇဿ၊ သုဏန္တု သဂ္ဂမောက္ခဒံ။",
       "romanization": "Saddhammaṃ munirājassa, suṇantu saggamokkhadaṃ",
+      "burmeseRomanization": "သဒ္ဓမ်မံ မုနိရာဇဿ၊ သုဏန်တု သဂ္ဂမောက္ခဒံ။",
       "translation": "To listen to the true dhamma of the King of Sages, which gives heavenly bliss and liberation",
-      "type": "verse"
+      "type": "verse",
+      "notes": "မုနိရာဇဿ - မုနိတို့ဘုရင် ရှင်တော်မြတ်ဘုရား၏၊ သဂ္ဂမောက္ခဒံ - နတ်ပြည်နိဗ္ဗာန် အကျိုးကို ပေးတတ်သော၊ သဒ္ဓမ္မံ - ပရိတ်တရားတော်ကို၊ သုဏန္တု - နာယူကြကုန်လော့"
     },
     {
       "id": "verse-3",
       "order": 5,
       "burmese": "ဓမ္မဿဝနကာလော အယံ ဘဒ္ဒန္တာ။",
       "romanization": "Dhammassavanakālo ayaṃ bhaddantā",
+      "burmeseRomanization": "ဓမ္မဿဝနကာလော အယံ ဘဒ္ဒန်တာ။",
       "translation": "Venerable ones, this is the time to listen to the dhamma",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဘဒ္ဒန္တာ - အိုနတ်အများတို့၊ အယံ - ဤအချိန်ကား၊ ဓမ္မဿဝနကာလော - တရားနာဖို့ အချိန်အခါပေတည်း"
     }
   ],
   "counterConfig": {

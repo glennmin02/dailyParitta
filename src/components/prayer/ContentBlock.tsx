@@ -84,7 +84,7 @@ export const ContentBlock: React.FC<ContentBlockProps> = ({ content }) => {
       case 'verse':
       default:
         return (
-          <div className="mb-3 md:mb-4 p-2 md:p-3 hover:bg-[var(--color-bg-secondary)]/50 rounded transition-colors">
+          <div className="mb-3 md:mb-4 p-2 md:p-3 hover:bg-[var(--color-bg-secondary)]/50 rounded transition-colors duration-150">
             {language.showBurmese && (
               <p className={`font-burmese ${getFontSizeClass()} leading-loose md:leading-relaxed mb-2`}>
                 {content.burmese}

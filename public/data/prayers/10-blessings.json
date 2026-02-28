@@ -6,34 +6,67 @@
     {
       "id": "heading-1",
       "order": 1,
-      "burmese": "စဓ ဗဝ ဂါထာ — ကောင်းချီးဂါထာ",
-      "romanization": "Sadhu Bhava Gatha - Blessings Verse",
-      "translation": "Verses of Blessings",
+      "burmese": "စဓ ဗဝ ဂါထာ — ဗုဒ္ဓေါ လောကေ သမုပ္ပန္နော ကောင်းချီးဂါထာ",
+      "translation": "Verses of Blessings - Buddho Loke Samuppanno",
       "type": "heading"
     },
     {
       "id": "verse-1",
       "order": 2,
-      "burmese": "ဗုဒ္ဓေါ လောကေ သမုပ္ပန္နော၊ ဟိတာယ သဗ္ဗပါဏိနံ။ စက္ခုံ လောကေ ပတိဋ္ဌာပေ၊ ဟိတာယ သဗ္ဗပါဏိနံ။",
-      "romanization": "Buddho loke samuppanno, hitāya sabbapāṇinaṃ. Cakkhuṃ loke patiṭṭhāpe, hitāya sabbapāṇinaṃ",
-      "translation": "The Buddha has arisen in the world for the welfare of all beings. The Eye has been established in the world for the welfare of all beings",
-      "type": "verse"
+      "burmese": "ဗုဒ္ဓေါ လောကေ သမုပ္ပန္နော၊ ဟိတာယ သဗ္ဗပါဏိနံ။",
+      "romanization": "Buddho loke samuppanno, hitāya sabbapāṇinaṃ",
+      "burmeseRomanization": "ဗုဒ္ဓေါ လောကေ သမုပ်ပန်နော၊ ဟိတာယ သဗ္ဗပါဏိနံ။",
+      "translation": "The Buddha has arisen in the world for the welfare of all beings",
+      "type": "verse",
+      "notes": "ဗုဒ္ဓရှင်သည် သတ္တဝါအပေါင်းတို့၏ အကျိုးစီးပွားငှာ လောက၌ ပွင့်ထွန်းတော်မူပြီ"
     },
     {
       "id": "verse-2",
       "order": 3,
-      "burmese": "ဓမ္မော လောကေ သမုပ္ပန္နော၊ သုခါယ သဗ္ဗပါဏိနံ။ ဝိနယော လောကေ ပတိဋ္ဌာပေ၊ သုခါယ သဗ္ဗပါဏိနံ။",
-      "romanization": "Dhammo loke samuppanno, sukhāya sabbapāṇinaṃ. Vinayo loke patiṭṭhāpe, sukhāya sabbapāṇinaṃ",
-      "translation": "The Dhamma has arisen in the world for the happiness of all beings. The Discipline has been established in the world for the happiness of all beings",
+      "burmese": "စက္ခုံ လောကေ ပတိဋ္ဌာပေ၊ ဟိတာယ သဗ္ဗပါဏိနံ။",
+      "romanization": "Cakkhuṃ loke patiṭṭhāpe, hitāya sabbapāṇinaṃ",
+      "burmeseRomanization": "စက္ခုံ လောကေ ပတိဋ္ဌာပေ၊ ဟိတာယ သဗ္ဗပါဏိနံ။",
+      "translation": "The Eye has been established in the world for the welfare of all beings",
       "type": "verse"
     },
     {
       "id": "verse-3",
       "order": 4,
-      "burmese": "သံဃော လောကေ သမုပ္ပန္နော၊ ပုညက္ခေတ္တံ အနုတ္တရံ။ ပဋိဂ္ဂဟေတွာ ပုညက္ခေတ္တံ၊ ဧဝံ ဟောတု သုမင်္ဂလံ။",
-      "romanization": "Saṅgho loke samuppanno, puññakkhettaṃ anuttaraṃ. Paṭiggahetvā puññakkhettaṃ, evaṃ hotu sumaṅgalaṃ",
-      "translation": "The Sangha has arisen in the world as the incomparable field of merit. Having accepted this field of merit, may there be great blessings",
+      "burmese": "ဓမ္မော လောကေ သမုပ္ပန္နော၊ သုခါယ သဗ္ဗပါဏိနံ။",
+      "romanization": "Dhammo loke samuppanno, sukhāya sabbapāṇinaṃ",
+      "burmeseRomanization": "ဓမ္မော လောကေ သမုပ်ပန်နော၊ သုခါယ သဗ္ဗပါဏိနံ။",
+      "translation": "The Dhamma has arisen in the world for the happiness of all beings",
+      "type": "verse",
+      "notes": "ဓမ္မတော်သည် သတ္တဝါအပေါင်းတို့ ချမ်းသာရေးအတွက် လောက၌ ပေါ်ထွန်းလာပြီ"
+    },
+    {
+      "id": "verse-4",
+      "order": 5,
+      "burmese": "ဝိနယော လောကေ ပတိဋ္ဌာပေ၊ သုခါယ သဗ္ဗပါဏိနံ။",
+      "romanization": "Vinayo loke patiṭṭhāpe, sukhāya sabbapāṇinaṃ",
+      "burmeseRomanization": "ဝိနယော လောကေ ပတိဋ္ဌာပေ၊ သုခါယ သဗ္ဗပါဏိနံ။",
+      "translation": "The Discipline has been established in the world for the happiness of all beings",
       "type": "verse"
+    },
+    {
+      "id": "verse-5",
+      "order": 6,
+      "burmese": "သံဃော လောကေ သမုပ္ပန္နော၊ ပုညက္ခေတ္တံ အနုတ္တရံ။",
+      "romanization": "Saṅgho loke samuppanno, puññakkhettaṃ anuttaraṃ",
+      "burmeseRomanization": "သံဃော လောကေ သမုပ်ပန်နော၊ ပုညက္ခေတ္တံ အနုတ္တရံ။",
+      "translation": "The Sangha has arisen in the world as the incomparable field of merit",
+      "type": "verse",
+      "notes": "သံဃာတော်သည် အတုမရှိသော ကုသိုလ်လယ်ယာ ဖြစ်လျက် လောက၌ ပေါ်ထွန်းလာပြီ"
+    },
+    {
+      "id": "verse-6",
+      "order": 7,
+      "burmese": "ပဋိဂ္ဂဟေတွာ ပုညက္ခေတ္တံ၊ ဧဝံ ဟောတု သုမင်္ဂလံ။",
+      "romanization": "Paṭiggahetvā puññakkhettaṃ, evaṃ hotu sumaṅgalaṃ",
+      "burmeseRomanization": "ပဋိဂ္ဂဟေတွာ ပုညက္ခေတ္တံ၊ ဧဝံ ဟောတု သုမင်္ဂလံ။",
+      "translation": "Having accepted this field of merit, may there be great blessings",
+      "type": "verse",
+      "notes": "ဤသို့ မင်္ဂလာ ရှိပါစေသတည်း"
     }
   ],
   "counterConfig": {

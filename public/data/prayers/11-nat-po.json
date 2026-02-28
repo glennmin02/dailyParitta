@@ -6,42 +6,72 @@
     {
       "id": "heading-1",
       "order": 1,
-      "burmese": "နတ်ပို့ဂါထာ — နတ်ဗြဟ္မာတို့ ပို့ဆောင်ခြင်း",
-      "romanization": "Nat Po Gatha - Sending Off the Devas",
-      "translation": "Verse for Sending the Devas Back",
+      "burmese": "နတ်ပို့ဂါထာ — ကုသိုလ်အမျှဝေ၍ နတ်ဗြဟ္မာတို့အား ပို့ဆောင်ခြင်း",
+      "translation": "Verse for Sharing Merit and Sending the Devas Back",
       "type": "heading"
     },
     {
       "id": "instruction-1",
       "order": 2,
-      "burmese": "ကုသိုလ်အမျှဝေ၍ နတ်ဗြဟ္မာတို့အား မိမိဘုံသို့ ပြန်ပို့ဆောင်ခြင်း",
-      "romanization": "Sharing merit and sending devas back to their realms",
-      "translation": "Sharing the merit and sending the devas back to their realms",
+      "burmese": "ဝတ်ရွတ်စဉ် ပြီးဆုံးသောအခါ၊ ရရှိသော ကုသိုလ်ကို လာရောက်နာယူသည့် နတ်ဗြဟ္မာအပေါင်းတို့အား အမျှဝေခြင်းနှင့် မိမိဘုံဌာနသို့ ပြန်လည်ကြွရာ ပို့ဆောင်ခြင်း",
+      "translation": "After completing the chanting, share the accumulated merit with the devas and brahmas who came to listen, and send them back to their realms",
       "type": "instruction"
     },
     {
       "id": "verse-1",
       "order": 3,
-      "burmese": "ဧတ္တာဝတာ စ အမှေဟိ၊ သမ္ဘတံ ပုညသမ္ပဒံ။ သဗ္ဗေ ဒေဝါ နုမောဒန္တု၊ သဗ္ဗသမ္ပတ္တိ သိဒ္ဓိယာ။",
-      "romanization": "Ettāvatā ca amhehi, sambhataṃ puññasampadaṃ. Sabbe devā numodantu, sabbasampatti siddhiyā",
-      "translation": "To this extent, by us, merit has been accumulated. May all the devas rejoice for the fulfillment of all prosperity",
-      "type": "verse"
+      "burmese": "ဧတ္တာဝတာ စ အမှေဟိ၊ သမ္ဘတံ ပုညသမ္ပဒံ။",
+      "romanization": "Ettāvatā ca amhehi, sambhataṃ puññasampadaṃ",
+      "burmeseRomanization": "ဧတ္တာဝတာ စ အမှေဟိ၊ သမ်ဘတံ ပုညသမ်ပဒံ။",
+      "translation": "To this extent, by us, merit has been accumulated",
+      "type": "verse",
+      "notes": "ဧတ္တာဝတာ စ - ဤမျှလောက် ကြိုးစား၍ ပူဇော်ရသဖြင့်၊ အမှေဟိ - အကျွန်ုပ်တို့သည်၊ သမ္ဘတံ ပုညသမ္ပဒံ - ကောင်းစွာ ဆည်းပူးအပ်သော ကုသိုလ်ကောင်းမှုတို့ ပြည့်စုံခြင်းကို"
     },
     {
       "id": "verse-2",
       "order": 4,
-      "burmese": "ဒါနံ ဒဒန္တု သဒ္ဓါယ၊ သီလံ ရက္ခန္တု သဗ္ဗဒါ။ ဘာဝနာဘိရတာ ဟောန္တု၊ ဂစ္ဆန္တု ဒေဝတာ ဂတာ။",
-      "romanization": "Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā. Bhāvanābhiratā hontu, gacchantu devatā gatā",
-      "translation": "May they give alms with faith, always guard their virtue, delight in meditation. May the devas go to their own realms",
-      "type": "verse"
+      "burmese": "သဗ္ဗေ ဒေဝါ နုမောဒန္တု၊ သဗ္ဗသမ္ပတ္တိ သိဒ္ဓိယာ။",
+      "romanization": "Sabbe devā numodantu, sabbasampatti siddhiyā",
+      "burmeseRomanization": "သဗ္ဗေ ဒေဝါ နုမောဒန်တု၊ သဗ္ဗသမ်ပတ်တိ သိဒ္ဓိယာ။",
+      "translation": "May all the devas rejoice for the fulfillment of all prosperity",
+      "type": "verse",
+      "notes": "သဗ္ဗေ ဒေဝါ နုမောဒန္တု - နတ်ဗြဟ္မာ အလုံးစုံတို့ ဝမ်းမြောက်ဝမ်းသာ သာဓုခေါ်ကြပါကုန်လော့၊ သဗ္ဗသမ္ပတ္တိ သိဒ္ဓိယာ - အလုံးစုံသော စည်းစိမ်ချမ်းသာ ပြည့်စုံခြင်းငှာ"
+    },
+    {
+      "id": "verse-3",
+      "order": 5,
+      "burmese": "ဒါနံ ဒဒန္တု သဒ္ဓါယ၊ သီလံ ရက္ခန္တု သဗ္ဗဒါ။",
+      "romanization": "Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā",
+      "burmeseRomanization": "ဒါနံ ဒဒန်တု သဒ္ဓါယ၊ သီလံ ရက္ခန်တု သဗ္ဗဒါ။",
+      "translation": "May they give alms with faith, always guard their virtue",
+      "type": "verse",
+      "notes": "ဒါနံ ဒဒန္တု သဒ္ဓါယ - သဒ္ဓါတရားဖြင့် ဒါနကုသိုလ်ကို ပြုကြပါကုန်လော့၊ သီလံ ရက္ခန္တု သဗ္ဗဒါ - သီလကို အစဉ်အမြဲ စောင့်ထိန်းကြပါကုန်လော့"
+    },
+    {
+      "id": "verse-4",
+      "order": 6,
+      "burmese": "ဘာဝနာဘိရတာ ဟောန္တု၊ ဂစ္ဆန္တု ဒေဝတာ ဂတာ။",
+      "romanization": "Bhāvanābhiratā hontu, gacchantu devatā gatā",
+      "burmeseRomanization": "ဘာဝနာဘိရတာ ဟောန်တု၊ ဂစ္ဆန်တု ဒေဝတာ ဂတာ။",
+      "translation": "May they delight in meditation. May the devas go to their own realms",
+      "type": "verse",
+      "notes": "ဘာဝနာဘိရတာ ဟောန္တု - ဘာဝနာ၌ မွေ့လျော်ကြပါကုန်လော့၊ ဂစ္ဆန္တု ဒေဝတာ ဂတာ - နတ်ဗြဟ္မာတို့ မိမိဘုံဌာနသို့ ကြွပါကုန်လော့"
     },
     {
       "id": "heading-2",
-      "order": 5,
+      "order": 7,
       "burmese": "သာဓု သာဓု သာဓု",
       "romanization": "Sādhu Sādhu Sādhu",
+      "burmeseRomanization": "သာဓု သာဓု သာဓု",
       "translation": "Well done! Well done! Well done!",
       "type": "heading"
+    },
+    {
+      "id": "closing",
+      "order": 8,
+      "burmese": "ဤဝတ်ရွတ်စဉ်ကို သဒ္ဓါတရားထုံမွှေး၍ ရွတ်ဖတ်ပူဇော်ကြသူ အပေါင်းတို့ ကိုယ်စိတ်နှစ်ဖြာ ကျန်းမာချမ်းသာ၍ အလိုဆန္ဒ ပြည့်ဝကြပါစေ။",
+      "translation": "May all who recite these chants with faith be healthy in body and mind, and may all their wishes be fulfilled.",
+      "type": "instruction"
     }
   ],
   "counterConfig": {

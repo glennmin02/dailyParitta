@@ -3,6 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom'
 import { usePrayerStore } from '../store'
 import { ScrollViewer } from '../components/prayer/ScrollViewer'
 import { CounterPanel } from '../components/prayer/Counter/CounterPanel'
+import { PrayerNavigation } from '../components/prayer/PrayerNavigation'
 import { LoadingSpinner } from '../components/shared/LoadingSpinner'
 import { Button } from '../components/shared/Button'
 
@@ -42,15 +43,33 @@ export const PrayerViewerPage: React.FC = () => {
 
   return (
     <div className="h-[calc(100vh-64px)] flex flex-col">
-      {/* Back Button */}
-      <div className="bg-[var(--color-bg-secondary)] border-b border-[var(--color-border)] px-4 py-3">
-        <Button
+      {/* Minimal Top Bar */}
+      <div className="bg-[var(--color-bg-secondary)] border-b border-[var(--color-border)] px-3 py-2 flex items-center justify-between">
+        <button
           onClick={() => navigate('/prayers')}
-          variant="secondary"
-          className="text-sm"
+          className="flex items-center gap-1 text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-all duration-150 active:scale-95"
         >
-          ← Back to Prayers
-        </Button>
+          <svg
+            className="w-4 h-4"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M4 6h16M4 12h16M4 18h16"
+            />
+          </svg>
+          <span className="hidden sm:inline">All Prayers</span>
+        </button>
+
+        <h2 className="font-burmese text-sm md:text-base font-medium text-center flex-1 px-2 truncate">
+          {currentPrayer.title}
+        </h2>
+
+        <div className="w-16 sm:w-20" /> {/* Spacer for balance */}
       </div>
 
       {/* Scroll Viewer */}
@@ -60,6 +79,9 @@ export const PrayerViewerPage: React.FC = () => {
 
       {/* Counter Panel */}
       <CounterPanel prayer={currentPrayer} />
+
+      {/* Navigation */}
+      <PrayerNavigation currentPrayer={currentPrayer} />
     </div>
   )
 }

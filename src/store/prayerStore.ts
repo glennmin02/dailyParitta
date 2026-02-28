@@ -14,9 +14,12 @@ interface PrayerState {
   setCurrentPrayer: (prayer: Prayer | null) => void
   searchPrayers: (query: string) => Promise<Prayer[]>
   clearError: () => void
+
+  // Navigation helpers
+  getAdjacentPrayers: (currentId: string) => { prev: Prayer | null; next: Prayer | null; currentIndex: number }
 }
 
-export const usePrayerStore = create<PrayerState>(set => ({
+export const usePrayerStore = create<PrayerState>((set, get) => ({
   prayers: [],
   currentPrayer: null,
   isLoading: false,
@@ -63,4 +66,19 @@ export const usePrayerStore = create<PrayerState>(set => ({
   },
 
   clearError: () => set({ error: null }),
+
+  getAdjacentPrayers: (currentId: string): { prev: Prayer | null; next: Prayer | null; currentIndex: number } => {
+    const { prayers } = get()
+    const currentIndex = prayers.findIndex((p: Prayer) => p.id === currentId)
+
+    if (currentIndex === -1) {
+      return { prev: null, next: null, currentIndex: -1 }
+    }
+
+    return {
+      prev: currentIndex > 0 ? prayers[currentIndex - 1] : null,
+      next: currentIndex < prayers.length - 1 ? prayers[currentIndex + 1] : null,
+      currentIndex,
+    }
+  },
 }))

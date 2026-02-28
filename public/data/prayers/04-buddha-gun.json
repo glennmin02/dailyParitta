@@ -7,7 +7,6 @@
       "id": "heading-1",
       "order": 1,
       "burmese": "ဘုရားဂုဏ်တော် ၉ ပါး",
-      "romanization": "Buddha Gon Daw Kou Par",
       "translation": "The Nine Virtues of the Buddha",
       "type": "heading"
     },
@@ -16,6 +15,7 @@
       "order": 2,
       "burmese": "ဣတိပိ သော ဘဂဝါ —",
       "romanization": "Itipi so bhagavā",
+      "burmeseRomanization": "ဣတိပိ သော ဘဂဝါ —",
       "translation": "Thus indeed is the Blessed One",
       "type": "verse"
     },
@@ -24,72 +24,90 @@
       "order": 3,
       "burmese": "အရဟံ",
       "romanization": "Arahaṃ",
+      "burmeseRomanization": "အရဟံ",
       "translation": "1. Worthy of homage, purified of all defilements",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ကိလေသာကင်းစင်၍ လူ၊ နတ်၊ ဗြဟ္မာ ပူဇော်ထိုက်တော်မူ၏"
     },
     {
       "id": "verse-3",
       "order": 4,
       "burmese": "သမ္မာသမ္ဗုဒ္ဓေါ",
       "romanization": "Sammāsambuddho",
+      "burmeseRomanization": "သမ္မာသမ်ဗုဒ္ဓေါ",
       "translation": "2. Perfectly self-enlightened",
-      "type": "verse"
+      "type": "verse",
+      "notes": "သစ္စာလေးပါးတရားကို ကိုယ်တိုင်မှန်စွာ သိတော်မူ၏"
     },
     {
       "id": "verse-4",
       "order": 5,
       "burmese": "ဝိဇ္ဇာစရဏသမ္ပန္နော",
       "romanization": "Vijjācaraṇasampanno",
+      "burmeseRomanization": "ဝိဇ္ဇာစရဏသမ်ပန်နော",
       "translation": "3. Perfect in knowledge and conduct",
-      "type": "verse"
+      "type": "verse",
+      "notes": "အသိဉာဏ်နှင့် အကျင့်ကောင်းတို့နှင့် ပြည့်စုံတော်မူ၏"
     },
     {
       "id": "verse-5",
       "order": 6,
       "burmese": "သုဂတော",
       "romanization": "Sugato",
+      "burmeseRomanization": "သုဂတော",
       "translation": "4. Well-gone, speaking only good words",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ကောင်းသောစကားကို မိန့်ဆို၍ နိဗ္ဗာန်သို့ ကြွသွားတော်မူ၏"
     },
     {
       "id": "verse-6",
       "order": 7,
       "burmese": "လောကဝိဒူ",
       "romanization": "Lokavidū",
+      "burmeseRomanization": "လောကဝိဒူ",
       "translation": "5. Knower of the worlds",
-      "type": "verse"
+      "type": "verse",
+      "notes": "လောကသုံးပါးကို ကျွမ်းကျင်စွာ သိမြင်တော်မူ၏"
     },
     {
       "id": "verse-7",
       "order": 8,
       "burmese": "အနုတ္တရောပုရိသဒမ္မသာရထိ",
       "romanization": "Anuttaro purisadammasārathi",
+      "burmeseRomanization": "အနုတ္တရောပုရိသဒမ္မသာရထိ",
       "translation": "6. Incomparable trainer of persons to be tamed",
-      "type": "verse"
+      "type": "verse",
+      "notes": "မယဉ်ကျေးသူကို ယဉ်ကျေးအောင် ဆုံးမရာ၌ အတုမရှိ သာလွန်တော်မူ၏"
     },
     {
       "id": "verse-8",
       "order": 9,
       "burmese": "သတ္ထာဒေဝမနုဿာနံ",
       "romanization": "Satthā devamanussānaṃ",
+      "burmeseRomanization": "သတ္ထာဒေဝမနုဿာနံ",
       "translation": "7. Teacher of gods and humans",
-      "type": "verse"
+      "type": "verse",
+      "notes": "လူ၊ နတ်၊ ဗြဟ္မာ သတ္တဝါတို့၏ ဆရာ ဖြစ်တော်မူ၏"
     },
     {
       "id": "verse-9",
       "order": 10,
       "burmese": "ဗုဒ္ဓေါ",
       "romanization": "Buddho",
+      "burmeseRomanization": "ဗုဒ္ဓေါ",
       "translation": "8. The Enlightened One",
-      "type": "verse"
+      "type": "verse",
+      "notes": "သစ္စာလေးပါးကို ပွင့်လင်းသိမြင်သော ဉာဏ်ရှိသူ ဖြစ်တော်မူ၏"
     },
     {
       "id": "verse-10",
       "order": 11,
       "burmese": "ဘဂဝါ",
       "romanization": "Bhagavā",
+      "burmeseRomanization": "ဘဂဝါ",
       "translation": "9. The Blessed One",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဘုန်းတော်ခြောက်ပါးနှင့် ပြည့်စုံတော်မူ၏"
     }
   ],
   "counterConfig": {

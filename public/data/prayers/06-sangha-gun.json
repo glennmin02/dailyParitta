@@ -7,7 +7,6 @@
       "id": "heading-1",
       "order": 1,
       "burmese": "သံဃာဂုဏ်တော် ၉ ပါး",
-      "romanization": "Sangha Gon Daw Kou Par",
       "translation": "The Nine Virtues of the Sangha",
       "type": "heading"
     },
@@ -16,80 +15,100 @@
       "order": 2,
       "burmese": "သုပ္ပဋိပန္နော ဘဂဝတော သာဝကသံဃော",
       "romanization": "Suppaṭipanno bhagavato sāvakasaṅgho",
+      "burmeseRomanization": "သုပ္ပဋိပန်နော ဘဂဝတော သာဝကသံဃော",
       "translation": "The Sangha of the Blessed One's disciples has practiced well",
-      "type": "verse"
+      "type": "verse",
+      "notes": "မြတ်စွာဘုရား၏ တပည့်သားသံဃာတော်သည် ကောင်းစွာ ကျင့်ကြံတော်မူ၏"
     },
     {
       "id": "verse-2",
       "order": 3,
       "burmese": "ဥဇုပ္ပဋိပန္နော ဘဂဝတော သာဝကသံဃော",
       "romanization": "Ujuppaṭipanno bhagavato sāvakasaṅgho",
+      "burmeseRomanization": "ဥဇုပ္ပဋိပန်နော ဘဂဝတော သာဝကသံဃော",
       "translation": "Has practiced straightly",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဖြောင့်မတ်စွာ ကျင့်ကြံတော်မူ၏"
     },
     {
       "id": "verse-3",
       "order": 4,
       "burmese": "ညာယပ္ပဋိပန္နော ဘဂဝတော သာဝကသံဃော",
       "romanization": "Ñāyappaṭipanno bhagavato sāvakasaṅgho",
+      "burmeseRomanization": "ညာယပ္ပဋိပန်နော ဘဂဝတော သာဝကသံဃော",
       "translation": "Has practiced methodically",
-      "type": "verse"
+      "type": "verse",
+      "notes": "နည်းလမ်းတကျ ကျင့်ကြံတော်မူ၏"
     },
     {
       "id": "verse-4",
       "order": 5,
       "burmese": "သာမီစိပ္ပဋိပန္နော ဘဂဝတော သာဝကသံဃော။",
       "romanization": "Sāmīcippaṭipanno bhagavato sāvakasaṅgho",
+      "burmeseRomanization": "သာမီစိပ္ပဋိပန်နော ဘဂဝတော သာဝကသံဃော။",
       "translation": "Has practiced masterfully",
-      "type": "verse"
+      "type": "verse",
+      "notes": "လျော်ကန်စွာ ကျင့်ကြံတော်မူ၏"
     },
     {
       "id": "verse-5",
       "order": 6,
       "burmese": "ယဒိဒံ — စတ္တာရိ ပုရိသယုဂါနိ အဋ္ဌ ပုရိသပုဂ္ဂလာ။ ဧသ ဘဂဝတော သာဝကသံဃော —",
       "romanization": "Yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā. Esa bhagavato sāvakasaṅgho",
+      "burmeseRomanization": "ယဒိဒံ — စတ္တာရိ ပုရိသယုဂါနိ အဋ္ဌ ပုရိသပုဂ္ဂလာ။ ဧသ ဘဂဝတော သာဝကသံဃော —",
       "translation": "The four pairs of persons, the eight types of individuals. This Sangha of the Blessed One's disciples",
-      "type": "verse"
+      "type": "verse",
+      "notes": "လူစုံလေးတွဲ လူရှစ်ယောက် (သောတာပန် မဂ်/ဖိုလ်၊ သကဒါဂါမိ မဂ်/ဖိုလ်၊ အနာဂါမိ မဂ်/ဖိုလ်၊ အရဟတ္တ မဂ်/ဖိုလ်)"
     },
     {
       "id": "verse-6",
       "order": 7,
       "burmese": "အာဟုနေယျော",
       "romanization": "Āhuneyyo",
+      "burmeseRomanization": "အာဟုနေယျော",
       "translation": "Is worthy of gifts",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဝေးမှ ယူဆောင်လာသော လှူဖွယ်ပစ္စည်းကို ခံယူထိုက်တော်မူ၏"
     },
     {
       "id": "verse-7",
       "order": 8,
       "burmese": "ပါဟုနေယျော",
       "romanization": "Pāhuneyyo",
+      "burmeseRomanization": "ပါဟုနေယျော",
       "translation": "Worthy of hospitality",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဧည့်ခံပူဇော်ထိုက်တော်မူ၏"
     },
     {
       "id": "verse-8",
       "order": 9,
       "burmese": "ဒက္ခိဏေယျော",
       "romanization": "Dakkhiṇeyyo",
+      "burmeseRomanization": "ဒက္ခိဏေယျော",
       "translation": "Worthy of offerings",
-      "type": "verse"
+      "type": "verse",
+      "notes": "ဒါနပစ္စည်း လှူဒါန်းထိုက်တော်မူ၏"
     },
     {
       "id": "verse-9",
       "order": 10,
       "burmese": "အဉ္ဇလိကရဏီယော",
       "romanization": "Añjalikaraṇīyo",
+      "burmeseRomanization": "အဉ္ဇလိကရဏီယော",
       "translation": "Worthy of reverential salutation",
-      "type": "verse"
+      "type": "verse",
+      "notes": "လက်အုပ်မိုး၍ ရှိခိုးထိုက်တော်မူ၏"
     },
     {
       "id": "verse-10",
       "order": 11,
       "burmese": "အနုတ္တရံ ပုညက္ခေတ္တံ လောကဿာ'တိ။",
       "romanization": "Anuttaraṃ puññakkhettaṃ lokassāti",
+      "burmeseRomanization": "အနုတ္တရံ ပုညက္ခေတ္တံ လောကဿာတိ။",
       "translation": "The incomparable field of merit for the world",
-      "type": "verse"
+      "type": "verse",
+      "notes": "လောက၏ အတုမဲ့ ကုသိုလ်လယ် ဖြစ်တော်မူ၏"
     }
   ],
   "counterConfig": {
