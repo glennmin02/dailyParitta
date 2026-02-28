@@ -55,12 +55,23 @@ export default defineConfig({
           },
           {
             urlPattern: /\/data\/prayers\/.*/i,
-            handler: 'CacheFirst',
+            handler: 'StaleWhileRevalidate',
             options: {
               cacheName: 'prayers-cache',
               expiration: {
                 maxEntries: 50,
-                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
+                maxAgeSeconds: 60 * 60 * 24 * 7, // 7 days
+              },
+            },
+          },
+          {
+            urlPattern: /\/data\/manifest\.json/i,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'manifest-cache',
+              expiration: {
+                maxEntries: 1,
+                maxAgeSeconds: 60 * 60 * 24, // 1 day
               },
             },
           },
