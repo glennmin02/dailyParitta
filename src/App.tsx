@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import { Layout } from './components/layout/Layout'
 import { ErrorBoundary } from './components/shared/ErrorBoundary'
+import { PasscodeGate } from './components/auth'
 import { HomePage } from './pages/HomePage'
 import { PrayerListPage } from './pages/PrayerListPage'
 import { PrayerViewerPage } from './pages/PrayerViewerPage'
@@ -9,7 +10,8 @@ import { SettingsPage } from './pages/SettingsPage'
 function App() {
   return (
     <ErrorBoundary>
-      <BrowserRouter>
+      <PasscodeGate>
+        <BrowserRouter>
         <Layout>
           <Routes>
             <Route path="/" element={<HomePage />} />
@@ -19,7 +21,8 @@ function App() {
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </Layout>
-      </BrowserRouter>
+        </BrowserRouter>
+      </PasscodeGate>
     </ErrorBoundary>
   )
 }

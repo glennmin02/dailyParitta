@@ -9,9 +9,6 @@ interface PreferencesState extends UserPreferences {
   toggleBurmese: () => void
   toggleRomanization: () => void
   toggleTranslation: () => void
-  toggleHapticFeedback: () => void
-  toggleWakeLock: () => void
-  toggleSound: () => void
   resetPreferences: () => void
 }
 
@@ -44,13 +41,6 @@ export const usePreferencesStore = create<PreferencesState>()(
             showTranslation: !state.language.showTranslation,
           },
         })),
-
-      toggleHapticFeedback: () =>
-        set(state => ({ hapticFeedback: !state.hapticFeedback })),
-
-      toggleWakeLock: () => set(state => ({ wakeLock: !state.wakeLock })),
-
-      toggleSound: () => set(state => ({ soundEnabled: !state.soundEnabled })),
 
       resetPreferences: () => set(DEFAULT_PREFERENCES),
     }),

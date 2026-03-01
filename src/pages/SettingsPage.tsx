@@ -1,26 +1,24 @@
 import React from 'react'
-import { usePreferencesStore } from '../store'
+import { usePreferencesStore, useAuthStore } from '../store'
 import { Card } from '../components/shared/Card'
 import type { Theme, FontSize } from '../types/preferences'
+import { isPasscodeEnabled } from '../utils/authUtils'
 
 export const SettingsPage: React.FC = () => {
   const {
     theme,
     fontSize,
     language,
-    hapticFeedback,
-    wakeLock,
-    soundEnabled,
     setTheme,
     setFontSize,
     toggleBurmese,
     toggleRomanization,
     toggleTranslation,
-    toggleHapticFeedback,
-    toggleWakeLock,
-    toggleSound,
     resetPreferences,
   } = usePreferencesStore()
+
+  const { logout } = useAuthStore()
+  const passcodeEnabled = isPasscodeEnabled()
 
   const Section: React.FC<{ title: string; children: React.ReactNode }> = ({
     title,
@@ -138,29 +136,6 @@ export const SettingsPage: React.FC = () => {
         </div>
       </Section>
 
-      <Section title="Interaction">
-        <div>
-          <Toggle
-            label="Haptic Feedback"
-            checked={hapticFeedback}
-            onChange={toggleHapticFeedback}
-            description="Vibrate on counter interactions"
-          />
-          <Toggle
-            label="Sound Effects"
-            checked={soundEnabled}
-            onChange={toggleSound}
-            description="Play sounds for completion"
-          />
-          <Toggle
-            label="Keep Screen Awake"
-            checked={wakeLock}
-            onChange={toggleWakeLock}
-            description="Prevent screen from sleeping during prayers"
-          />
-        </div>
-      </Section>
-
       <Section title="About">
         <div className="space-y-3 text-sm">
           <div className="flex justify-between py-2">
@@ -178,6 +153,31 @@ export const SettingsPage: React.FC = () => {
           </div>
         </div>
       </Section>
+
+      {passcodeEnabled && (
+        <Card className="mb-6">
+          <button
+            onClick={logout}
+            className="w-full flex items-center justify-center gap-2 text-[var(--color-accent)] font-medium hover:text-[var(--color-accent-light)]"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
+              <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+            </svg>
+            Lock App
+          </button>
+        </Card>
+      )}
 
       <Card className="border-red-300">
         <button

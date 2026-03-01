@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { useProgressStore, usePreferencesStore } from '../../../store'
+import { useProgressStore } from '../../../store'
 import { ProgressRing } from './ProgressRing'
 import { Button } from '../../shared/Button'
 import type { Prayer } from '../../../types/prayer'
@@ -16,7 +16,6 @@ export const CounterPanel: React.FC<CounterPanelProps> = ({ prayer }) => {
     setCounterTarget,
     getCounter,
   } = useProgressStore()
-  const { hapticFeedback } = usePreferencesStore()
 
   const counter = getCounter(prayer.id)
   const current = counter?.current || 0
@@ -30,17 +29,13 @@ export const CounterPanel: React.FC<CounterPanelProps> = ({ prayer }) => {
 
   const handleIncrement = () => {
     incrementCounter(prayer.id)
-    if (hapticFeedback && 'vibrate' in navigator) {
-      navigator.vibrate(50)
-    }
+    navigator.vibrate?.(50)
   }
 
   const handleDecrement = () => {
     if (current > 0) {
       decrementCounter(prayer.id)
-      if (hapticFeedback && 'vibrate' in navigator) {
-        navigator.vibrate(30)
-      }
+      navigator.vibrate?.(30)
     }
   }
 

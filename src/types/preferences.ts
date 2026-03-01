@@ -12,10 +12,6 @@ export interface UserPreferences {
   theme: Theme
   fontSize: FontSize
   language: LanguagePreferences
-  hapticFeedback: boolean
-  wakeLock: boolean
-  autoSaveProgress: boolean
-  soundEnabled: boolean
 }
 
 export const DEFAULT_PREFERENCES: UserPreferences = {
@@ -26,8 +22,4 @@ export const DEFAULT_PREFERENCES: UserPreferences = {
     showRomanization: true,
     showTranslation: true,
   },
-  hapticFeedback: true,
-  wakeLock: false,
-  autoSaveProgress: true,
-  soundEnabled: true,
 }

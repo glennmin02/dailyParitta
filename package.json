@@ -13,7 +13,8 @@
     "preview": "vite preview",
     "test": "vitest --config vitest.config.ts",
     "test:ui": "vitest --ui --config vitest.config.ts",
-    "test:coverage": "vitest run --coverage --config vitest.config.ts"
+    "test:coverage": "vitest run --coverage --config vitest.config.ts",
+    "generate-passcode-hash": "node scripts/generateHash.mjs"
   },
   "dependencies": {
     "react": "^19.2.0",
